@@ -1,5 +1,9 @@
-package com.namanh.running_sum_1d_array;
+package com.namanh.sum;
 
+/**
+ * Running Sum of 1D Array
+ * https://leetcode.com/problems/running-sum-of-1d-array
+ */
 public class RunningSum {
     public int[] runningSum(int[] nums) {
         int n = nums.length;

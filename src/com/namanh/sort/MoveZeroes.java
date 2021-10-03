@@ -1,5 +1,8 @@
-package com.namanh.move_zeroes;
+package com.namanh.sort;
 
+/**
+ * https://leetcode.com/problems/move-zeroes
+ */
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {
         int bound = 0;

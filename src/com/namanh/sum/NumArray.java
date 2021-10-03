@@ -1,5 +1,9 @@
-package com.namanh.range_sum_query;
+package com.namanh.sum;
 
+/**
+ * Range Sum Query - Immutable
+ * https://leetcode.com/problems/range-sum-query-immutable
+ */
 public class NumArray {
     int[] nums;
 
