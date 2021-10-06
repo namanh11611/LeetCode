@@ -31,4 +31,6 @@ Solve Leetcode problems
 
 - 303 - [Range Sum Query - Immutable](src/com/namanh/sum/NumArray.java)
 - 304 - [Range Sum Query 2D - Immutable](src/com/namanh/sum/NumMatrix.java)
+- 560 - [Subarray Sum Equals K](src/com/namanh/sum/SubArraySumEqualsK.java)
 - 1480 - [Running Sum of 1D Array](src/com/namanh/sum/RunningSum.java)
+- 1679 - [Max Number of K-Sum Pairs](src/com/namanh/sum/MaxNumberOfKSumPairs.java)
