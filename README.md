@@ -26,6 +26,11 @@ Solve Leetcode problems
 - 48 - [Rotate Image](src/com/namanh/matrix/RotateImage.java)
 
 
+### Palindrome
+
+- 9 - [Palindrome Number](src/com/namanh/number/PalindromeNumber.java)
+
+
 ### Sort
 
 - 75 - [Sort Colors](src/com/namanh/sort/SortColors.java)
@@ -37,6 +42,9 @@ Solve Leetcode problems
 ### String
 
 - 3 - [Longest Substring Without Repeating Characters](src/com/namanh/string/LongestSubstringWithoutRepeatingCharacters.java)
+- 5 - [Longest Palindromic Substring](src/com/namanh/string/LongestPalindromicSubstring.java)
+
+
 ### Sum
 
 - 1 - [Two Sum](src/com/namanh/sum/TwoSum.java)
