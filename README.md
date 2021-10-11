@@ -34,6 +34,8 @@ Solve Leetcode problems
 ### Sort
 
 - 75 - [Sort Colors](src/com/namanh/sort/SortColors.java)
+- 88 - [Merge Sorted Array](src/com/namanh/sort/MergeSortedArray.java)
+- 148 - [Sort List](src/com/namanh/sort/SortList.java)
 - 283 - [Move Zeroes](src/com/namanh/sort/MoveZeroes.java)
 - 905 - [Sort Array By Parity](src/com/namanh/sort/SortArrayByParity.java)
 - 922 - [Sort Array By Parity II](src/com/namanh/sort/SortArrayByParityII.java)
