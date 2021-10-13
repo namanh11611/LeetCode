@@ -34,6 +34,7 @@ Solve Leetcode problems
 ### Quick Select
 
 - 215 - [Kth Largest Element in an Array](src/com/namanh/quick_select/KthLargestElement.java)
+- 973 - [K Closest Points to Origin](src/com/namanh/quick_select/KClosestPoints.java)
 
 
 ### Sort
