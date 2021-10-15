@@ -10,6 +10,12 @@ Solve Leetcode problems
 - 231 - [Power of Two](src/com/namanh/bit_manipulation/PowerOfTwo.java)
 
 
+### Hash Table
+
+- 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
+- 219 - [Contains Duplicate II](src/com/namanh/hash_table/ContainsDuplicateII.java)
+
+
 ### Linked List
 
 - 2 - [Add Two Numbers](src/com/namanh/linked_list/AddTwoNumbers.java)
@@ -64,6 +70,7 @@ Solve Leetcode problems
 - 53 - [Maximum Subarray](src/com/namanh/sum/MaximumSubArray.java)
 - 303 - [Range Sum Query - Immutable](src/com/namanh/sum/NumArray.java)
 - 304 - [Range Sum Query 2D - Immutable](src/com/namanh/sum/NumMatrix.java)
+- 454 - [4Sum II](src/com/namanh/sum/FourSumII.java)
 - 560 - [Subarray Sum Equals K](src/com/namanh/sum/SubArraySumEqualsK.java)
 - 1480 - [Running Sum of 1D Array](src/com/namanh/sum/RunningSum.java)
 - 1679 - [Max Number of K-Sum Pairs](src/com/namanh/sum/MaxNumberOfKSumPairs.java)
