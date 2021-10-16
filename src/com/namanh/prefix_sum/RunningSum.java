@@ -1,4 +1,4 @@
-package com.namanh.sum;
+package com.namanh.prefix_sum;
 
 /**
  * Running Sum of 1D Array

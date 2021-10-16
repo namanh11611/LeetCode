@@ -37,6 +37,16 @@ Solve Leetcode problems
 - 9 - [Palindrome Number](src/com/namanh/number/PalindromeNumber.java)
 
 
+### Prefix Sum
+
+- 303 - [Range Sum Query - Immutable](src/com/namanh/prefix_sum/NumArray.java)
+- 304 - [Range Sum Query 2D - Immutable](src/com/namanh/prefix_sum/NumMatrix.java)
+- 560 - [Subarray Sum Equals K](src/com/namanh/prefix_sum/SubArraySumEqualsK.java)
+- 974 - [Subarray Sums Divisible by K](src/com/namanh/prefix_sum/SubArraySumsDivisibleByK.java)
+- 1480 - [Running Sum of 1D Array](src/com/namanh/prefix_sum/RunningSum.java)
+- 1590 - [Make Sum Divisible by P](src/com/namanh/prefix_sum/MakeSumDivisibleByP.java)
+
+
 ### Queue
 
 - 239 - [Sliding Window Maximum](src/com/namanh/queue/SlidingWindowMaximum.java)
@@ -68,9 +78,5 @@ Solve Leetcode problems
 
 - 1 - [Two Sum](src/com/namanh/sum/TwoSum.java)
 - 53 - [Maximum Subarray](src/com/namanh/sum/MaximumSubArray.java)
-- 303 - [Range Sum Query - Immutable](src/com/namanh/sum/NumArray.java)
-- 304 - [Range Sum Query 2D - Immutable](src/com/namanh/sum/NumMatrix.java)
 - 454 - [4Sum II](src/com/namanh/sum/FourSumII.java)
-- 560 - [Subarray Sum Equals K](src/com/namanh/sum/SubArraySumEqualsK.java)
-- 1480 - [Running Sum of 1D Array](src/com/namanh/sum/RunningSum.java)
 - 1679 - [Max Number of K-Sum Pairs](src/com/namanh/sum/MaxNumberOfKSumPairs.java)

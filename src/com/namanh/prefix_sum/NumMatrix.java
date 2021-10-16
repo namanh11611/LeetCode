@@ -1,4 +1,4 @@
-package com.namanh.sum;
+package com.namanh.prefix_sum;
 
 /**
  * Range Sum Query 2D - Immutable
