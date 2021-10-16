@@ -77,6 +77,8 @@ Solve Leetcode problems
 ### Sum
 
 - 1 - [Two Sum](src/com/namanh/sum/TwoSum.java)
+- 15 - [3Sum](src/com/namanh/sum/ThreeSum.java)
+- 18 - [4Sum](src/com/namanh/sum/FourSum.java)
 - 53 - [Maximum Subarray](src/com/namanh/sum/MaximumSubArray.java)
 - 454 - [4Sum II](src/com/namanh/sum/FourSumII.java)
 - 1679 - [Max Number of K-Sum Pairs](src/com/namanh/sum/MaxNumberOfKSumPairs.java)
