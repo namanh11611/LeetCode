@@ -50,6 +50,7 @@ Solve Leetcode problems
 ### Queue
 
 - 239 - [Sliding Window Maximum](src/com/namanh/queue/SlidingWindowMaximum.java)
+- 622 - [Design Circular Queue](src/com/namanh/queue/MyCircularQueue.java)
 
 
 ### Quick Select
@@ -66,6 +67,13 @@ Solve Leetcode problems
 - 283 - [Move Zeroes](src/com/namanh/sort/MoveZeroes.java)
 - 905 - [Sort Array By Parity](src/com/namanh/sort/SortArrayByParity.java)
 - 922 - [Sort Array By Parity II](src/com/namanh/sort/SortArrayByParityII.java)
+
+
+### Stack
+
+- 20 - [Valid Parentheses](src/com/namanh/stack/ValidParentheses.java)
+- 150 - [Evaluate Reverse Polish Notation](src/com/namanh/stack/EvaluateReversePolishNotation.java)
+- 1047 - [Remove All Adjacent Duplicates In String](src/com/namanh/stack/RemoveAllAdjacentDuplicatesInString.java)
 
 
 ### String
