@@ -14,6 +14,8 @@ Solve Leetcode problems
 
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
 - 219 - [Contains Duplicate II](src/com/namanh/hash_table/ContainsDuplicateII.java)
+- 387 - [First Unique Character in a String](src/com/namanh/hash_table/FirstUniqueCharacter.java)
+- 1748 - [Sum of Unique Elements](src/com/namanh/hash_table/SumOfUniqueElements.java)
 
 
 ### Linked List
