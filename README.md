@@ -43,6 +43,7 @@ Solve Leetcode problems
 
 - 303 - [Range Sum Query - Immutable](src/com/namanh/prefix_sum/NumArray.java)
 - 304 - [Range Sum Query 2D - Immutable](src/com/namanh/prefix_sum/NumMatrix.java)
+- 523 - [Continuous Subarray Sum](src/com/namanh/prefix_sum/ContinuousSubArraySum.java)
 - 560 - [Subarray Sum Equals K](src/com/namanh/prefix_sum/SubArraySumEqualsK.java)
 - 974 - [Subarray Sums Divisible by K](src/com/namanh/prefix_sum/SubArraySumsDivisibleByK.java)
 - 1480 - [Running Sum of 1D Array](src/com/namanh/prefix_sum/RunningSum.java)
