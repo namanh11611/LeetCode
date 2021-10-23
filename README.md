@@ -10,6 +10,13 @@ Solve Leetcode problems
 - 231 - [Power of Two](src/com/namanh/bit_manipulation/PowerOfTwo.java)
 
 
+### Dfs
+
+- 200 - [Number of Islands](src/com/namanh/dfs/NumberOfIslands.java)
+- 547 - [Number of Provinces](src/com/namanh/dfs/NumberOfProvinces.java)
+- 841 - [Keys and Rooms](src/com/namanh/dfs/KeysAndRooms.java)
+
+
 ### Hash Table
 
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
