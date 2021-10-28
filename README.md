@@ -3,10 +3,24 @@
 Solve Leetcode problems
 
 
+### Array
+- 189 - [Rotate Array](src/com/namanh/array/RotateArray.java)
+- 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
+
+### Binary Search
+- 153 - [Find Minimum in Rotated Sorted Array](src/com/namanh/binary_search/FindMinimumInRotatedSortedArray.java)
+
 ### Binary Tree
+- 94 - [Binary Tree Inorder Traversal](src/com/namanh/binary_tree/BinaryTreeInorderTraversal.java)
 - 104 - [Maximum Depth of Binary Tree](src/com/namanh/binary_tree/MaximumDepthOfBinaryTree.java)
 - 111 - [Minimum Depth of Binary Tree](src/com/namanh/binary_tree/MinimumDepthOfBinaryTree.java)
+- 144 - [Binary Tree Preorder Traversal](src/com/namanh/binary_tree/BinaryTreePreorderTraversal.java)
+- 145 - [Binary Tree Postorder Traversal](src/com/namanh/binary_tree/BinaryTreePostorderTraversal.java)
 - 404 - [Sum of Left Leaves](src/com/namanh/binary_tree/SumOfLeftLeaves.java)
+- 508 - [Most Frequent Subtree Sum](src/com/namanh/binary_tree/MostFrequentSubtreeSum.java)
+- 543 - [Diameter of Binary Tree](src/com/namanh/binary_tree/DiameterOfBinaryTree.java)
+- 687 - [Longest Univalue Path](src/com/namanh/binary_tree/LongestUnivaluePath.java)
+- 1372 - [Longest ZigZag Path in a Binary Tree](src/com/namanh/binary_tree/LongestZigZagPath.java)
 
 ### Bit Manipulation
 - 78 - [Subsets](src/com/namanh/bit_manipulation/Subsets.java)
@@ -18,6 +32,11 @@ Solve Leetcode problems
 - 547 - [Number of Provinces](src/com/namanh/dfs/NumberOfProvinces.java)
 - 695 - [Max Area of Island](src/com/namanh/dfs/MaxAreaOfIsland.java)
 - 841 - [Keys and Rooms](src/com/namanh/dfs/KeysAndRooms.java)
+
+### Dynamic Programming
+- 198 - [House Robber](src/com/namanh/dynamic_programming/HouseRobber.java)
+- 213 - [House Robber II](src/com/namanh/dynamic_programming/HouseRobberII.java)
+- 337 - [House Robber III](src/com/namanh/dynamic_programming/HouseRobberIII.java)
 
 ### Hash Table
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
@@ -33,6 +52,9 @@ Solve Leetcode problems
 - 206 - [Reverse Linked List](src/com/namanh/linked_list/ReverseLinkedList.java)
 - 234 - [Palindrome Linked List](src/com/namanh/linked_list/PalindromeLinkedList.java)
 - 876 - [Middle of the Linked List](src/com/namanh/linked_list/MiddleLinkedList.java)
+
+### Math
+- 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
 
 ### Matrix
 - 48 - [Rotate Image](src/com/namanh/matrix/RotateImage.java)
