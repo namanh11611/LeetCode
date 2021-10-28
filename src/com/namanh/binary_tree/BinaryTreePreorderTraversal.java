@@ -1,7 +1,6 @@
 package com.namanh.binary_tree;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Stack;
 
