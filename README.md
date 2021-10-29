@@ -54,6 +54,7 @@ Solve Leetcode problems
 - 876 - [Middle of the Linked List](src/com/namanh/linked_list/MiddleLinkedList.java)
 
 ### Math
+- 69 - [Sqrt(x)](src/com/namanh/math/SqrtX.java)
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
 
 ### Matrix
