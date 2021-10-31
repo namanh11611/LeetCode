@@ -1,5 +1,7 @@
 package com.namanh.binary_tree;
 
+import com.namanh.common.TreeNode;
+
 /**
  * Link: https://leetcode.com/problems/sum-of-left-leaves
  * Question: Given the root of a binary tree, return the sum of all left leaves.

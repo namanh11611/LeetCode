@@ -1,4 +1,4 @@
-package com.namanh.binary_tree;
+package com.namanh.common;
 
 /**
  * Definition for a binary tree node.

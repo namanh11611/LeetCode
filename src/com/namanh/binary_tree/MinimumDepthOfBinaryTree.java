@@ -1,5 +1,7 @@
 package com.namanh.binary_tree;
 
+import com.namanh.common.TreeNode;
+
 /**
  * Link: https://leetcode.com/problems/minimum-depth-of-binary-tree
  * Question: Given a binary tree, find its minimum depth.

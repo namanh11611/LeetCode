@@ -1,5 +1,7 @@
 package com.namanh.binary_tree;
 
+import com.namanh.common.TreeNode;
+
 /**
  * Link: https://leetcode.com/problems/longest-univalue-path
  * Question: Given the root of a binary tree, return the length of the longest path, where each node in the path has

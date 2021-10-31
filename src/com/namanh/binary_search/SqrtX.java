@@ -1,4 +1,4 @@
-package com.namanh.math;
+package com.namanh.binary_search;
 
 /**
  * https://leetcode.com/problems/sqrtx

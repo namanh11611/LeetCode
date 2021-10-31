@@ -7,8 +7,16 @@ Solve Leetcode problems
 - 189 - [Rotate Array](src/com/namanh/array/RotateArray.java)
 - 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
 
-### Binary Search
+### BFS
+- 102 - [Binary Tree Level Order Traversal](src/com/namanh/bfs/BinaryTreeLevelOrderTraversal.java)
+- 107 - [Binary Tree Level Order Traversal II](src/com/namanh/bfs/BinaryTreeLevelOrderTraversalII.java)
+- 199 - [Binary Tree Right Side View](src/com/namanh/bfs/BinaryTreeRightSideView.java)
+- 1302 - [Deepest Leaves Sum](src/com/namanh/bfs/DeepestLeavesSum.java)
+
+### [Binary Search](src/com/namanh/binary_search/BinarySearch.txt)
+- 69 - [Sqrt(x)](src/com/namanh/binary_search/SqrtX.java)
 - 153 - [Find Minimum in Rotated Sorted Array](src/com/namanh/binary_search/FindMinimumInRotatedSortedArray.java)
+- 852 - [Peak Index in a Mountain Array](src/com/namanh/binary_search/PeakIndexInAMountainArray.java) 
 
 ### Binary Tree
 - 94 - [Binary Tree Inorder Traversal](src/com/namanh/binary_tree/BinaryTreeInorderTraversal.java)
@@ -27,7 +35,7 @@ Solve Leetcode problems
 - 191 - [Number of 1 Bits](src/com/namanh/bit_manipulation/NumberOf1Bits.java)
 - 231 - [Power of Two](src/com/namanh/bit_manipulation/PowerOfTwo.java)
 
-### Dfs
+### DFS
 - 200 - [Number of Islands](src/com/namanh/dfs/NumberOfIslands.java)
 - 547 - [Number of Provinces](src/com/namanh/dfs/NumberOfProvinces.java)
 - 695 - [Max Area of Island](src/com/namanh/dfs/MaxAreaOfIsland.java)
@@ -54,7 +62,6 @@ Solve Leetcode problems
 - 876 - [Middle of the Linked List](src/com/namanh/linked_list/MiddleLinkedList.java)
 
 ### Math
-- 69 - [Sqrt(x)](src/com/namanh/math/SqrtX.java)
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
 
 ### Matrix
@@ -106,4 +113,5 @@ Solve Leetcode problems
 - 1679 - [Max Number of K-Sum Pairs](src/com/namanh/sum/MaxNumberOfKSumPairs.java)
 
 ### Tree
+- 429 - [N-ary Tree Level Order Traversal](src/com/namanh/tree/NaryTreeLevelOrderTraversal.java)
 - 590 - [N-ary Tree Postorder Traversal](src/com/namanh/tree/NaryTreePostorderTraversal.java)

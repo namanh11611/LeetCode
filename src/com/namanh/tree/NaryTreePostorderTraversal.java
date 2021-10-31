@@ -15,7 +15,6 @@ import java.util.Stack;
  * Space: average case O(log(n)), worst case O(n)
  */
 public class NaryTreePostorderTraversal {
-
     public List<Integer> postorder(Node root) {
         List<Integer> nodeList = new ArrayList<>();
         if (root == null) return nodeList;
@@ -31,21 +30,5 @@ public class NaryTreePostorderTraversal {
         }
         Collections.reverse(nodeList);
         return nodeList;
-    }
-
-    class Node {
-        public int val;
-        public List<Node> children;
-
-        public Node() {}
-
-        public Node(int _val) {
-            val = _val;
-        }
-
-        public Node(int _val, List<Node> _children) {
-            val = _val;
-            children = _children;
-        }
     }
 }

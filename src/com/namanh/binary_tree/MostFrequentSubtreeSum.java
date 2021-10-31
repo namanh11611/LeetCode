@@ -1,5 +1,7 @@
 package com.namanh.binary_tree;
 
+import com.namanh.common.TreeNode;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

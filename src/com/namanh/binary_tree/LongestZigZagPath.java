@@ -1,5 +1,7 @@
 package com.namanh.binary_tree;
 
+import com.namanh.common.TreeNode;
+
 /**
  * Link: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree
  * Question: Return the longest ZigZag path contained in a binary tree.

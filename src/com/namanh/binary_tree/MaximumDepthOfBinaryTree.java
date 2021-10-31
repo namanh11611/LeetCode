@@ -1,5 +1,7 @@
 package com.namanh.binary_tree;
 
+import com.namanh.common.TreeNode;
+
 /**
  * Link: https://leetcode.com/problems/maximum-depth-of-binary-tree
  * Question: Given the root of a binary tree, return its maximum depth.

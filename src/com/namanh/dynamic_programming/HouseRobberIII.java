@@ -1,6 +1,6 @@
 package com.namanh.dynamic_programming;
 
-import com.namanh.binary_tree.TreeNode;
+import com.namanh.common.TreeNode;
 
 /**
  * https://leetcode.com/problems/house-robber-iii

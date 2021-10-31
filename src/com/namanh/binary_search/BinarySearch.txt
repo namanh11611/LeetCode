@@ -1,0 +1,15 @@
+Binary Search is one of the most fundamental and useful algorithms in Computer Science. It describes the process of
+searching for a specific value in an ordered collection.
+
+When compare a[mid] with target, if it isn't satisfied, do you want to keep a[mid] for next round?
+- If you want to keep a[mid], use [lo = mid + 1, hi = mid] or [lo = mid, hi = mid - 1]
+  To solve binary search problem, we should think about 3 edge case:
+    + [1,2] => low = 1, high = 2 and middle = 1
+    + [2,1] => low = 2, high = 1 and middle = 2
+    + [1,2,3] => low = 1, high = 3 and middle = 2
+  What element you want to choose?
+
+- Otherwise, use [lo = mid + 1, hi = mid - 1]
+  Think about edge case have 4 elements:
+    + [1,2,3,4] => It will convert to 1 element or 2 elements case
+
