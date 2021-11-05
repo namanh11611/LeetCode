@@ -1,0 +1,29 @@
+Interface:             Queue
+                         |
+             ---------------------------
+             |           |             |
+Class:   ArrayDeque   LinkedList   PriorityQueue
+
+PriorityQueue: push the smallest element to head of queue
+
+Function:
+- offer(e): insert element, return true/false
+- poll(): remove first element, return it or null
+- peek(): return first element or null
+
+- add(e): insert element, return true or throw exception
+- remove(): remove first element, return it or throw exception
+- element(): return first element or throw exception
+
+
+Interface:             Deque
+                         |
+Class:              ArrayDeque
+
+Function:
+- offerFirst
+- offerLast
+- pollFirst
+- pollLast
+- peekFirst
+- peekLast
