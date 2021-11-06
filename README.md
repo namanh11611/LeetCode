@@ -12,14 +12,21 @@ Solve Leetcode problems
 - 107 - [Binary Tree Level Order Traversal II](src/com/namanh/bfs/BinaryTreeLevelOrderTraversalII.java)
 - 127 - [Word Ladder](src/com/namanh/bfs/WordLadder.java)
 - 199 - [Binary Tree Right Side View](src/com/namanh/bfs/BinaryTreeRightSideView.java)
+- 433 - [Minimum Genetic Mutation](src/com/namanh/bfs/MinimumGeneticMutation.java)
+- 773 - [Sliding Puzzle](src/com/namanh/bfs/SlidingPuzzle.java)
 - 1091 - [Shortest Path in Binary Matrix](src/com/namanh/bfs/ShortestPathInBinaryMatrix.java)
 - 1293 - [Shortest Path in a Grid with Obstacles Elimination](src/com/namanh/bfs/ShortestPathInAGridWithObstaclesElimination.java)
 - 1302 - [Deepest Leaves Sum](src/com/namanh/bfs/DeepestLeavesSum.java)
+- 2059 - [Minimum Operations to Convert Number](src/com/namanh/bfs/MinimumOperationsToConvertNumber.java)
 
 ### [Binary Search](src/com/namanh/binary_search/BinarySearch.txt)
+- 33 - [Search in Rotated Sorted Array](src/com/namanh/binary_search/SearchInRotatedSortedArray.java)
 - 69 - [Sqrt(x)](src/com/namanh/binary_search/SqrtX.java)
+- 81 - [Search in Rotated Sorted Array II](src/com/namanh/binary_search/SearchInRotatedSortedArrayII.java)
 - 153 - [Find Minimum in Rotated Sorted Array](src/com/namanh/binary_search/FindMinimumInRotatedSortedArray.java)
-- 852 - [Peak Index in a Mountain Array](src/com/namanh/binary_search/PeakIndexInAMountainArray.java) 
+- 852 - [Peak Index in a Mountain Array](src/com/namanh/binary_search/PeakIndexInAMountainArray.java)
+- 1631 - [Path With Minimum Effort](src/com/namanh/binary_search/PathWithMinimumEffort.java)
+- 1760 - [Minimum Limit of Balls in a Bag](src/com/namanh/binary_search/MinimumLimitOfBallsInABag.java)
 
 ### Binary Tree
 - 94 - [Binary Tree Inorder Traversal](src/com/namanh/binary_tree/BinaryTreeInorderTraversal.java)
@@ -82,7 +89,7 @@ Solve Leetcode problems
 - 1480 - [Running Sum of 1D Array](src/com/namanh/prefix_sum/RunningSum.java)
 - 1590 - [Make Sum Divisible by P](src/com/namanh/prefix_sum/MakeSumDivisibleByP.java)
 
-### Queue
+### [Queue](src/com/namanh/queue/Queue.txt)
 - 239 - [Sliding Window Maximum](src/com/namanh/queue/SlidingWindowMaximum.java)
 - 622 - [Design Circular Queue](src/com/namanh/queue/MyCircularQueue.java)
 
