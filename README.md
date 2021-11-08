@@ -5,6 +5,7 @@ Solve Leetcode problems
 
 ### Array
 - 189 - [Rotate Array](src/com/namanh/array/RotateArray.java)
+- 485 - [Max Consecutive Ones](src/com/namanh/array/MaxConsecutiveOnes.java)
 - 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
 
 ### BFS
@@ -24,9 +25,16 @@ Solve Leetcode problems
 - 69 - [Sqrt(x)](src/com/namanh/binary_search/SqrtX.java)
 - 81 - [Search in Rotated Sorted Array II](src/com/namanh/binary_search/SearchInRotatedSortedArrayII.java)
 - 153 - [Find Minimum in Rotated Sorted Array](src/com/namanh/binary_search/FindMinimumInRotatedSortedArray.java)
+- 702 - [Search in a Sorted Array of Unknown Size](src/com/namanh/binary_search/SearchInASortedArrayOfUnknownSize.java)
 - 852 - [Peak Index in a Mountain Array](src/com/namanh/binary_search/PeakIndexInAMountainArray.java)
 - 1631 - [Path With Minimum Effort](src/com/namanh/binary_search/PathWithMinimumEffort.java)
 - 1760 - [Minimum Limit of Balls in a Bag](src/com/namanh/binary_search/MinimumLimitOfBallsInABag.java)
+
+### [Binary Search Tree](src/com/namanh/binary_search_tree/BinarySearchTree.txt)
+- 98 - [Validate Binary Search Tree](src/com/namanh/binary_search_tree/ValidateBinarySearchTree.java)
+- 285 - [Inorder Successor in BST](src/com/namanh/binary_search_tree/InorderSuccessorInBST.java)
+- 700 - [Search in a Binary Search Tree](src/com/namanh/binary_search_tree/SearchInABinarySearchTree.java)
+- 701 - [Insert into a Binary Search Tree](src/com/namanh/binary_search_tree/InsertIntoABinarySearchTree.java)
 
 ### Binary Tree
 - 94 - [Binary Tree Inorder Traversal](src/com/namanh/binary_tree/BinaryTreeInorderTraversal.java)
@@ -125,3 +133,8 @@ Solve Leetcode problems
 ### Tree
 - 429 - [N-ary Tree Level Order Traversal](src/com/namanh/tree/NaryTreeLevelOrderTraversal.java)
 - 590 - [N-ary Tree Postorder Traversal](src/com/namanh/tree/NaryTreePostorderTraversal.java)
+
+### Two Pointers
+- 26 - [Remove Duplicates from Sorted Array](src/com/namanh/two_pointers/RemoveDuplicatesFromSortedArray.java)
+- 167 - [Two Sum II - Input Array Is Sorted](src/com/namanh/two_pointers/TwoSumII_InputArrayIsSorted.java)
+- 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
