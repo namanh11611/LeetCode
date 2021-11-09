@@ -5,6 +5,13 @@ import java.util.Map;
 
 /**
  * https://leetcode.com/problems/longest-substring-without-repeating-characters
+ * Given a string s, find the length of the longest substring without repeating characters.
+ *
+ * S1: Use map to store character and newest index
+ * S2: If found a character already in map, calculate length and update max
+ *
+ * Time: O(n)
+ * Space: O(n)
  */
 public class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {

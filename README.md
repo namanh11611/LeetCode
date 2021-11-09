@@ -32,6 +32,7 @@ Solve Leetcode problems
 
 ### [Binary Search Tree](src/com/namanh/binary_search_tree/BinarySearchTree.txt)
 - 98 - [Validate Binary Search Tree](src/com/namanh/binary_search_tree/ValidateBinarySearchTree.java)
+- 230 - [Kth Smallest Element in a BST](src/com/namanh/binary_search_tree/KthSmallestElementInABST.java)
 - 285 - [Inorder Successor in BST](src/com/namanh/binary_search_tree/InorderSuccessorInBST.java)
 - 700 - [Search in a Binary Search Tree](src/com/namanh/binary_search_tree/SearchInABinarySearchTree.java)
 - 701 - [Insert into a Binary Search Tree](src/com/namanh/binary_search_tree/InsertIntoABinarySearchTree.java)
@@ -137,4 +138,5 @@ Solve Leetcode problems
 ### Two Pointers
 - 26 - [Remove Duplicates from Sorted Array](src/com/namanh/two_pointers/RemoveDuplicatesFromSortedArray.java)
 - 167 - [Two Sum II - Input Array Is Sorted](src/com/namanh/two_pointers/TwoSumII_InputArrayIsSorted.java)
+- 240 - [Search a 2D Matrix II](src/com/namanh/two_pointers/SearchA2DMatrixII.java)
 - 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
