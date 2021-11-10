@@ -135,8 +135,10 @@ Solve Leetcode problems
 - 429 - [N-ary Tree Level Order Traversal](src/com/namanh/tree/NaryTreeLevelOrderTraversal.java)
 - 590 - [N-ary Tree Postorder Traversal](src/com/namanh/tree/NaryTreePostorderTraversal.java)
 
-### Two Pointers
+### [Two Pointers](src/com/namanh/two_pointers/TwoPointers.txt)
 - 26 - [Remove Duplicates from Sorted Array](src/com/namanh/two_pointers/RemoveDuplicatesFromSortedArray.java)
 - 167 - [Two Sum II - Input Array Is Sorted](src/com/namanh/two_pointers/TwoSumII_InputArrayIsSorted.java)
 - 240 - [Search a 2D Matrix II](src/com/namanh/two_pointers/SearchA2DMatrixII.java)
+- 713 - [Subarray Product Less Than K](src/com/namanh/two_pointers/SubarrayProductLessThanK.java)
 - 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
+- 904 - [Fruit Into Baskets](src/com/namanh/two_pointers/FruitIntoBaskets.java)

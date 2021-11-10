@@ -1,0 +1,9 @@
+Two Pointers
+
+Sliding Window is a special case of Two Pointer
+Return the length of the longest contiguous subarray [u,v] of array A that [u,v] meets the requirement X.
+With X is a requirement such that: if [u,v] doesn't meet X, then [u,v'] doesn't meet X too (v' > v).
+
+ 1 2 3 4 5 6 7 8 9 10
+   u     v      -> Unsatisfied
+   u         v' -> Definitely unsatisfied
