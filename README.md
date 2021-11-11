@@ -71,6 +71,9 @@ Solve Leetcode problems
 - 387 - [First Unique Character in a String](src/com/namanh/hash_table/FirstUniqueCharacter.java)
 - 1748 - [Sum of Unique Elements](src/com/namanh/hash_table/SumOfUniqueElements.java)
 
+### Heap (Priority Queue)
+- 703 - [Kth Largest Element in a Stream](src/com/namanh/heap_priority_queue/KthLargest.java)
+
 ### Linked List
 - 2 - [Add Two Numbers](src/com/namanh/linked_list/AddTwoNumbers.java)
 - 141 - [Linked List Cycle](src/com/namanh/linked_list/LinkedListCycle.java)
