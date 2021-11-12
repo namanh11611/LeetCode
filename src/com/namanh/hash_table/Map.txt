@@ -1,0 +1,14 @@
+Iterate the map:
+for (Map.Entry<Integer, Integer> item : map.entrySet()) {
+    item.getKey();
+    item.getValue();
+}
+
+Iterate only key of map:
+for (int key : map.keySet()) {
+
+}
+
+map.containsKey(key)
+map.getOrDefault(key, def)
+map.putIfAbsent(key, val)

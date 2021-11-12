@@ -65,13 +65,14 @@ Solve Leetcode problems
 - 213 - [House Robber II](src/com/namanh/dynamic_programming/HouseRobberII.java)
 - 337 - [House Robber III](src/com/namanh/dynamic_programming/HouseRobberIII.java)
 
-### Hash Table
+### [Hash Table](src/com/namanh/hash_table/Map.txt)
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
 - 219 - [Contains Duplicate II](src/com/namanh/hash_table/ContainsDuplicateII.java)
 - 387 - [First Unique Character in a String](src/com/namanh/hash_table/FirstUniqueCharacter.java)
 - 1748 - [Sum of Unique Elements](src/com/namanh/hash_table/SumOfUniqueElements.java)
 
-### Heap (Priority Queue)
+### [Heap (Priority Queue)](src/com/namanh/heap_priority_queue/PriorityQueue.txt)
+- 347 - [Top K Frequent Elements](src/com/namanh/heap_priority_queue/TopKFrequentElements.java)
 - 703 - [Kth Largest Element in a Stream](src/com/namanh/heap_priority_queue/KthLargest.java)
 
 ### Linked List
@@ -85,6 +86,7 @@ Solve Leetcode problems
 
 ### Math
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
+- 1753 - [Maximum Score From Removing Stones](src/com/namanh/math/MaximumScoreFromRemovingStones.java)
 
 ### Matrix
 - 48 - [Rotate Image](src/com/namanh/matrix/RotateImage.java)

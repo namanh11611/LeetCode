@@ -1,0 +1,6 @@
+Default, Priority Queue is a queue with ascending order elements
+
+Create Priority Queue with descending order:
+Queue<Integer> queue = new PriorityQueue<>(Collections.reverseOrder());
+or
+Queue<Integer> queue = new PriorityQueue<>((a,b) -> Integer.compare(b,a));
