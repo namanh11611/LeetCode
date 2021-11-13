@@ -100,6 +100,7 @@ Solve Leetcode problems
 - 523 - [Continuous Subarray Sum](src/com/namanh/prefix_sum/ContinuousSubArraySum.java)
 - 560 - [Subarray Sum Equals K](src/com/namanh/prefix_sum/SubArraySumEqualsK.java)
 - 974 - [Subarray Sums Divisible by K](src/com/namanh/prefix_sum/SubArraySumsDivisibleByK.java)
+- 1124 - [Longest Well-Performing Interval](src/com/namanh/prefix_sum/LongestWellPerformingInterval.java)
 - 1480 - [Running Sum of 1D Array](src/com/namanh/prefix_sum/RunningSum.java)
 - 1590 - [Make Sum Divisible by P](src/com/namanh/prefix_sum/MakeSumDivisibleByP.java)
 
@@ -142,8 +143,10 @@ Solve Leetcode problems
 
 ### [Two Pointers](src/com/namanh/two_pointers/TwoPointers.txt)
 - 26 - [Remove Duplicates from Sorted Array](src/com/namanh/two_pointers/RemoveDuplicatesFromSortedArray.java)
+- 159 - [Longest Substring with At Most Two Distinct Characters](src/com/namanh/two_pointers/LongestSubstringWithAtMostTwoDistinctCharacters.java)
 - 167 - [Two Sum II - Input Array Is Sorted](src/com/namanh/two_pointers/TwoSumII_InputArrayIsSorted.java)
 - 240 - [Search a 2D Matrix II](src/com/namanh/two_pointers/SearchA2DMatrixII.java)
+- 340 - [Longest Substring with At Most K Distinct Characters](src/com/namanh/two_pointers/LongestSubstringWithAtMostKDistinctCharacters.java)
 - 713 - [Subarray Product Less Than K](src/com/namanh/two_pointers/SubarrayProductLessThanK.java)
 - 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
 - 904 - [Fruit Into Baskets](src/com/namanh/two_pointers/FruitIntoBaskets.java)
