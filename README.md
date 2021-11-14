@@ -150,3 +150,4 @@ Solve Leetcode problems
 - 713 - [Subarray Product Less Than K](src/com/namanh/two_pointers/SubarrayProductLessThanK.java)
 - 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
 - 904 - [Fruit Into Baskets](src/com/namanh/two_pointers/FruitIntoBaskets.java)
+- 992 - [Subarrays with K Different Integers](src/com/namanh/two_pointers/SubarraysWithKDifferentIntegers.java)
