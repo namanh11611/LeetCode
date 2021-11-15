@@ -143,6 +143,7 @@ Solve Leetcode problems
 
 ### [Two Pointers](src/com/namanh/two_pointers/TwoPointers.txt)
 - 26 - [Remove Duplicates from Sorted Array](src/com/namanh/two_pointers/RemoveDuplicatesFromSortedArray.java)
+- 76 - [Minimum Window Substring](src/com/namanh/two_pointers/MinimumWindowSubstring.java)
 - 159 - [Longest Substring with At Most Two Distinct Characters](src/com/namanh/two_pointers/LongestSubstringWithAtMostTwoDistinctCharacters.java)
 - 167 - [Two Sum II - Input Array Is Sorted](src/com/namanh/two_pointers/TwoSumII_InputArrayIsSorted.java)
 - 240 - [Search a 2D Matrix II](src/com/namanh/two_pointers/SearchA2DMatrixII.java)
