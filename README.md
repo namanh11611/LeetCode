@@ -34,6 +34,8 @@ Solve Leetcode problems
 - 98 - [Validate Binary Search Tree](src/com/namanh/binary_search_tree/ValidateBinarySearchTree.java)
 - 230 - [Kth Smallest Element in a BST](src/com/namanh/binary_search_tree/KthSmallestElementInABST.java)
 - 285 - [Inorder Successor in BST](src/com/namanh/binary_search_tree/InorderSuccessorInBST.java)
+- 450 - [Delete Node in a BST](src/com/namanh/binary_search_tree/DeleteNodeInABST.java)
+- 669 - [Trim a Binary Search Tree](src/com/namanh/binary_search_tree/TrimABinarySearchTree.java)
 - 700 - [Search in a Binary Search Tree](src/com/namanh/binary_search_tree/SearchInABinarySearchTree.java)
 - 701 - [Insert into a Binary Search Tree](src/com/namanh/binary_search_tree/InsertIntoABinarySearchTree.java)
 
@@ -146,6 +148,7 @@ Solve Leetcode problems
 - 76 - [Minimum Window Substring](src/com/namanh/two_pointers/MinimumWindowSubstring.java)
 - 159 - [Longest Substring with At Most Two Distinct Characters](src/com/namanh/two_pointers/LongestSubstringWithAtMostTwoDistinctCharacters.java)
 - 167 - [Two Sum II - Input Array Is Sorted](src/com/namanh/two_pointers/TwoSumII_InputArrayIsSorted.java)
+- 209 - [Minimum Size Subarray Sum](src/com/namanh/two_pointers/MinimumSizeSubarraySum.java)
 - 240 - [Search a 2D Matrix II](src/com/namanh/two_pointers/SearchA2DMatrixII.java)
 - 340 - [Longest Substring with At Most K Distinct Characters](src/com/namanh/two_pointers/LongestSubstringWithAtMostKDistinctCharacters.java)
 - 713 - [Subarray Product Less Than K](src/com/namanh/two_pointers/SubarrayProductLessThanK.java)
