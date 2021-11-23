@@ -74,11 +74,13 @@ Solve Leetcode problems
 - 1748 - [Sum of Unique Elements](src/com/namanh/hash_table/SumOfUniqueElements.java)
 
 ### [Heap (Priority Queue)](src/com/namanh/heap_priority_queue/PriorityQueue.txt)
+- 23 - [Merge k Sorted Lists](src/com/namanh/heap_priority_queue/MergeKSortedLists.java)
 - 347 - [Top K Frequent Elements](src/com/namanh/heap_priority_queue/TopKFrequentElements.java)
 - 703 - [Kth Largest Element in a Stream](src/com/namanh/heap_priority_queue/KthLargest.java)
 
-### Linked List
+### [Linked List](src/com/namanh/linked_list/LinkedList.txt)
 - 2 - [Add Two Numbers](src/com/namanh/linked_list/AddTwoNumbers.java)
+- 21 - [Merge Two Sorted Lists](src/com/namanh/linked_list/MergeTwoSortedLists.java)
 - 141 - [Linked List Cycle](src/com/namanh/linked_list/LinkedListCycle.java)
 - 142 - [Linked List Cycle II](src/com/namanh/linked_list/LinkedListCycleII.java)
 - 202 - [Happy Number](src/com/namanh/linked_list/HappyNumber.java)

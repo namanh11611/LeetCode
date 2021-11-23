@@ -1,0 +1,10 @@
+Format:
+
+ListNode head = new ListNode();
+ListNode currentNode = head;
+
+while (condition) {
+    currentNode.next = ...;
+}
+
+return head.next;
