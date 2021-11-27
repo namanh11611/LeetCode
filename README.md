@@ -76,6 +76,7 @@ Solve Leetcode problems
 
 ### [Heap (Priority Queue)](src/com/namanh/heap_priority_queue/PriorityQueue.txt)
 - 23 - [Merge k Sorted Lists](src/com/namanh/heap_priority_queue/MergeKSortedLists.java)
+- 295 - [Find Median from Data Stream](src/com/namanh/heap_priority_queue/MedianFinder.java)
 - 347 - [Top K Frequent Elements](src/com/namanh/heap_priority_queue/TopKFrequentElements.java)
 - 703 - [Kth Largest Element in a Stream](src/com/namanh/heap_priority_queue/KthLargest.java)
 
@@ -158,3 +159,6 @@ Solve Leetcode problems
 - 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
 - 904 - [Fruit Into Baskets](src/com/namanh/two_pointers/FruitIntoBaskets.java)
 - 992 - [Subarrays with K Different Integers](src/com/namanh/two_pointers/SubarraysWithKDifferentIntegers.java)
+
+### Union Find
+- 684 - [Redundant Connection](src/com/namanh/union_find/RedundantConnection.java)
