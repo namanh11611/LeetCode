@@ -1,4 +1,8 @@
 Default, Priority Queue is a queue with ascending order elements
+We can custom queue:
+Queue<ListNode> queue = new PriorityQueue<>(Comparator.comparingInt(a -> a.val));
+Queue<int[]> queue    = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
+Queue<Integer> queue  = new PriorityQueue<>((a, b) -> Integer.compare(map.get(b), map.get(a)));
 
 Create Priority Queue with descending order:
 Queue<Integer> queue = new PriorityQueue<>(Collections.reverseOrder());

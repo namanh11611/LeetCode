@@ -5,6 +5,7 @@ Solve Leetcode problems
 
 ### Array
 - 189 - [Rotate Array](src/com/namanh/array/RotateArray.java)
+- 238 - [Product of Array Except Self](src/com/namanh/array/ProductOfArrayExceptSelf.java)
 - 485 - [Max Consecutive Ones](src/com/namanh/array/MaxConsecutiveOnes.java)
 - 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
 
@@ -61,6 +62,10 @@ Solve Leetcode problems
 - 547 - [Number of Provinces](src/com/namanh/dfs/NumberOfProvinces.java)
 - 695 - [Max Area of Island](src/com/namanh/dfs/MaxAreaOfIsland.java)
 - 841 - [Keys and Rooms](src/com/namanh/dfs/KeysAndRooms.java)
+
+### Dijkstra
+- 743 - [Network Delay Time](src/com/namanh/dijkstra/NetworkDelayTime.java)
+- 1514 - [Path with Maximum Probability](src/com/namanh/dijkstra/PathWithMaximumProbability.java)
 
 ### Dynamic Programming
 - 198 - [House Robber](src/com/namanh/dynamic_programming/HouseRobber.java)
