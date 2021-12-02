@@ -65,6 +65,7 @@ Solve Leetcode problems
 
 ### Dijkstra
 - 743 - [Network Delay Time](src/com/namanh/dijkstra/NetworkDelayTime.java)
+- 787 - [Cheapest Flights Within K Stops](src/com/namanh/dijkstra/CheapestFlightsWithinKStops.java)
 - 1514 - [Path with Maximum Probability](src/com/namanh/dijkstra/PathWithMaximumProbability.java)
 
 ### Dynamic Programming
@@ -167,3 +168,4 @@ Solve Leetcode problems
 
 ### Union Find
 - 684 - [Redundant Connection](src/com/namanh/union_find/RedundantConnection.java)
+- 990 - [Satisfiability of Equality Equations](src/com/namanh/union_find/SatisfiabilityOfEqualityEquations.java)
