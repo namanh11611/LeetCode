@@ -169,3 +169,4 @@ Solve Leetcode problems
 ### Union Find
 - 684 - [Redundant Connection](src/com/namanh/union_find/RedundantConnection.java)
 - 990 - [Satisfiability of Equality Equations](src/com/namanh/union_find/SatisfiabilityOfEqualityEquations.java)
+- 1627 - [Graph Connectivity With Threshold](src/com/namanh/union_find/GraphConnectivityWithThreshold.java)

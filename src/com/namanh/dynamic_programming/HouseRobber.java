@@ -10,7 +10,7 @@ package com.namanh.dynamic_programming;
  *         max1 -------- a[i] ---> max
  *
  * S1: At a[i], get max(max1 + a[i], max2)
- * S2: Return max(a[end], a[end-1])
+ * S2: Return a[end]
  */
 public class HouseRobber {
     public int rob(int[] nums) {
@@ -20,6 +20,6 @@ public class HouseRobber {
         for (int i = 2; i < n; i++) {
             nums[i] = Math.max(nums[i-2] + nums[i], nums[i-1]);
         }
-        return Math.max(nums[n-1], nums[n-2]);
+        return nums[n-1];
     }
 }
