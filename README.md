@@ -77,6 +77,7 @@ Solve Leetcode problems
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
 - 219 - [Contains Duplicate II](src/com/namanh/hash_table/ContainsDuplicateII.java)
 - 387 - [First Unique Character in a String](src/com/namanh/hash_table/FirstUniqueCharacter.java)
+- 734 - [Sentence Similarity](src/com/namanh/hash_table/SentenceSimilarity.java)
 - 890 - [Find and Replace Pattern](src/com/namanh/hash_table/FindAndReplacePattern.java)
 - 1748 - [Sum of Unique Elements](src/com/namanh/hash_table/SumOfUniqueElements.java)
 
@@ -168,5 +169,6 @@ Solve Leetcode problems
 
 ### Union Find
 - 684 - [Redundant Connection](src/com/namanh/union_find/RedundantConnection.java)
+- 737 - [Sentence Similarity II](src/com/namanh/union_find/SentenceSimilarityII.java)
 - 990 - [Satisfiability of Equality Equations](src/com/namanh/union_find/SatisfiabilityOfEqualityEquations.java)
 - 1627 - [Graph Connectivity With Threshold](src/com/namanh/union_find/GraphConnectivityWithThreshold.java)
