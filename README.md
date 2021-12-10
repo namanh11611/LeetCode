@@ -104,6 +104,9 @@ Solve Leetcode problems
 ### Matrix
 - 48 - [Rotate Image](src/com/namanh/matrix/RotateImage.java)
 
+### Minimum Spanning Tree
+- 1584 - [Min Cost to Connect All Points](src/com/namanh/minimum_spanning_tree/MinCostToConnectAllPoints.java)
+
 ### Number
 - 9 - [Palindrome Number](src/com/namanh/number/PalindromeNumber.java)
 
