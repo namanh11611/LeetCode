@@ -157,6 +157,9 @@ Solve Leetcode problems
 - 429 - [N-ary Tree Level Order Traversal](src/com/namanh/tree/NaryTreeLevelOrderTraversal.java)
 - 590 - [N-ary Tree Postorder Traversal](src/com/namanh/tree/NaryTreePostorderTraversal.java)
 
+### Trie
+- 208 - [Implement Trie (Prefix Tree)](src/com/namanh/trie/Trie.java)
+
 ### [Two Pointers](src/com/namanh/two_pointers/TwoPointers.txt)
 - 26 - [Remove Duplicates from Sorted Array](src/com/namanh/two_pointers/RemoveDuplicatesFromSortedArray.java)
 - 76 - [Minimum Window Substring](src/com/namanh/two_pointers/MinimumWindowSubstring.java)
