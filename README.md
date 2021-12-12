@@ -159,6 +159,10 @@ Solve Leetcode problems
 
 ### Trie
 - 208 - [Implement Trie (Prefix Tree)](src/com/namanh/trie/Trie.java)
+- 677 - [Map Sum Pairs](src/com/namanh/trie/MapSum.java)
+- 720 - [Longest Word in Dictionary](src/com/namanh/trie/LongestWordInDictionary.java)
+- 1233 - [Remove Sub-Folders from the Filesystem](src/com/namanh/trie/RemoveSubFoldersFromTheFilesystem.java)
+- 1268 - [Search Suggestions System](src/com/namanh/trie/SearchSuggestionsSystem.java)
 
 ### [Two Pointers](src/com/namanh/two_pointers/TwoPointers.txt)
 - 26 - [Remove Duplicates from Sorted Array](src/com/namanh/two_pointers/RemoveDuplicatesFromSortedArray.java)

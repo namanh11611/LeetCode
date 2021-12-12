@@ -15,6 +15,8 @@ import java.util.*;
  *
  * Time: O(n^2 * log(n))
  * Space: O(n^2)
+ *
+ * TODO: Optimize root array
  */
 public class MinCostToConnectAllPoints {
     class Point {
@@ -48,7 +50,7 @@ public class MinCostToConnectAllPoints {
     public int minCostConnectPoints(int[][] points) {
         List<Point> pList = new ArrayList<>();
         Queue<Edge> edges = new PriorityQueue<>(Comparator.comparingInt(Edge::getDistance));
-        Map<Point, Point> root = new HashMap<>();
+        Map<Point, Point> root = new HashMap<>(); // Optimize root array
         int n = points.length;
         for (int[] p : points) {
             Point newP = new Point(p[0], p[1]);

@@ -8,15 +8,8 @@ package com.namanh.trie;
  */
 public class Trie {
     class Node {
-        char c;
         Node[] children = new Node[26];
         boolean isEnd;
-
-        Node() {}
-
-        Node(char c) {
-            this.c = c;
-        }
     }
 
     private Node head;
@@ -27,37 +20,30 @@ public class Trie {
 
     public void insert(String word) {
         Node cur = head;
-        int n = word.length();
-        for (int i = 0; i < n; i++) {
-            char c = word.charAt(i);
-
+        for (char c : word.toCharArray()) {
             // Only add new node when it is null
-            if (cur.children[c-97] == null) {
-                cur.children[c-97] = new Node(c);
+            if (cur.children[c - 'a'] == null) {
+                cur.children[c - 'a'] = new Node();
             }
-            cur = cur.children[c-97];
+            cur = cur.children[c - 'a'];
         }
         cur.isEnd = true;
     }
 
     public boolean search(String word) {
         Node cur = head;
-        int n = word.length();
-        for (int i = 0; i < n; i++) {
-            char c = word.charAt(i);
-            if (cur.children[c-97] == null) return false;
-            cur = cur.children[c-97];
+        for (char c : word.toCharArray()) {
+            cur = cur.children[c - 'a'];
+            if (cur == null) return false;
         }
         return cur.isEnd;
     }
 
     public boolean startsWith(String prefix) {
         Node cur = head;
-        int n = prefix.length();
-        for (int i = 0; i < n; i++) {
-            char c = prefix.charAt(i);
-            if (cur.children[c-97] == null) return false;
-            cur = cur.children[c-97];
+        for (char c : prefix.toCharArray()) {
+            cur = cur.children[c - 'a'];
+            if (cur == null) return false;
         }
         return true;
     }
