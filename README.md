@@ -159,6 +159,7 @@ Solve Leetcode problems
 
 ### Trie
 - 208 - [Implement Trie (Prefix Tree)](src/com/namanh/trie/Trie.java)
+- 676 - [Implement Magic Dictionary](src/com/namanh/trie/MagicDictionary.java)
 - 677 - [Map Sum Pairs](src/com/namanh/trie/MapSum.java)
 - 720 - [Longest Word in Dictionary](src/com/namanh/trie/LongestWordInDictionary.java)
 - 1233 - [Remove Sub-Folders from the Filesystem](src/com/namanh/trie/RemoveSubFoldersFromTheFilesystem.java)
