@@ -173,6 +173,7 @@ Solve Leetcode problems
 - 209 - [Minimum Size Subarray Sum](src/com/namanh/two_pointers/MinimumSizeSubarraySum.java)
 - 240 - [Search a 2D Matrix II](src/com/namanh/two_pointers/SearchA2DMatrixII.java)
 - 340 - [Longest Substring with At Most K Distinct Characters](src/com/namanh/two_pointers/LongestSubstringWithAtMostKDistinctCharacters.java)
+- 643 - [Maximum Average Subarray I](src/com/namanh/two_pointers/MaximumAverageSubarrayI.java)
 - 713 - [Subarray Product Less Than K](src/com/namanh/two_pointers/SubarrayProductLessThanK.java)
 - 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
 - 904 - [Fruit Into Baskets](src/com/namanh/two_pointers/FruitIntoBaskets.java)
