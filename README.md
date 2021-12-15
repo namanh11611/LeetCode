@@ -69,6 +69,9 @@ Solve Leetcode problems
 - 787 - [Cheapest Flights Within K Stops](src/com/namanh/dijkstra/CheapestFlightsWithinKStops.java)
 - 1514 - [Path with Maximum Probability](src/com/namanh/dijkstra/PathWithMaximumProbability.java)
 
+### Divide and Conquer
+- 1763 - [Longest Nice Substring](src/com/namanh/divide_and_conquer/LongestNiceSubstring.java)
+
 ### Dynamic Programming
 - 198 - [House Robber](src/com/namanh/dynamic_programming/HouseRobber.java)
 - 213 - [House Robber II](src/com/namanh/dynamic_programming/HouseRobberII.java)
