@@ -39,6 +39,7 @@ Solve Leetcode problems
 - 669 - [Trim a Binary Search Tree](src/com/namanh/binary_search_tree/TrimABinarySearchTree.java)
 - 700 - [Search in a Binary Search Tree](src/com/namanh/binary_search_tree/SearchInABinarySearchTree.java)
 - 701 - [Insert into a Binary Search Tree](src/com/namanh/binary_search_tree/InsertIntoABinarySearchTree.java)
+- 938 - [Range Sum of BST](src/com/namanh/binary_search_tree/RangeSumOfBST.java)
 
 ### Binary Tree
 - 94 - [Binary Tree Inorder Traversal](src/com/namanh/binary_tree/BinaryTreeInorderTraversal.java)
@@ -144,6 +145,8 @@ Solve Leetcode problems
 ### String
 - 3 - [Longest Substring Without Repeating Characters](src/com/namanh/string/LongestSubstringWithoutRepeatingCharacters.java)
 - 5 - [Longest Palindromic Substring](src/com/namanh/string/LongestPalindromicSubstring.java)
+- 125 - [Valid Palindrome](src/com/namanh/string/ValidPalindrome.java)
+- 680 - [Valid Palindrome II](src/com/namanh/string/ValidPalindromeII.java)
 
 ### Sum
 - 1 - [Two Sum](src/com/namanh/sum/TwoSum.java)
@@ -178,6 +181,7 @@ Solve Leetcode problems
 - 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
 - 904 - [Fruit Into Baskets](src/com/namanh/two_pointers/FruitIntoBaskets.java)
 - 992 - [Subarrays with K Different Integers](src/com/namanh/two_pointers/SubarraysWithKDifferentIntegers.java)
+- 1876 - [Substrings of Size Three with Distinct Characters](src/com/namanh/two_pointers/SubstringsOfSizeThreeWithDistinctCharacters.java)
 
 ### Union Find
 - 684 - [Redundant Connection](src/com/namanh/union_find/RedundantConnection.java)
