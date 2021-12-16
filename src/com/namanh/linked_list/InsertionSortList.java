@@ -10,7 +10,7 @@ package com.namanh.linked_list;
  * S4: Move head to next element
  * S5: Return new head
  *
- * Time: O(n)
+ * Time: O(n^2)
  * Space: O(n)
  */
 public class InsertionSortList {

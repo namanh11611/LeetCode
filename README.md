@@ -151,6 +151,7 @@ Solve Leetcode problems
 - 5 - [Longest Palindromic Substring](src/com/namanh/string/LongestPalindromicSubstring.java)
 - 125 - [Valid Palindrome](src/com/namanh/string/ValidPalindrome.java)
 - 680 - [Valid Palindrome II](src/com/namanh/string/ValidPalindromeII.java)
+- 696 - [Count Binary Substrings](src/com/namanh/string/CountBinarySubstrings.java)
 
 ### Sum
 - 1 - [Two Sum](src/com/namanh/sum/TwoSum.java)
