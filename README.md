@@ -6,6 +6,8 @@ Solve Leetcode problems
 ### Array
 - 189 - [Rotate Array](src/com/namanh/array/RotateArray.java)
 - 238 - [Product of Array Except Self](src/com/namanh/array/ProductOfArrayExceptSelf.java)
+- 287 - [Find the Duplicate Number](src/com/namanh/array/FindTheDuplicateNumber.java)
+- 448 - [Find All Numbers Disappeared in an Array](src/com/namanh/array/FindAllNumbersDisappearedInAnArray.java)
 - 485 - [Max Consecutive Ones](src/com/namanh/array/MaxConsecutiveOnes.java)
 - 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
 
