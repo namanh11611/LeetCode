@@ -47,11 +47,13 @@ Solve Leetcode problems
 - 94 - [Binary Tree Inorder Traversal](src/com/namanh/binary_tree/BinaryTreeInorderTraversal.java)
 - 104 - [Maximum Depth of Binary Tree](src/com/namanh/binary_tree/MaximumDepthOfBinaryTree.java)
 - 111 - [Minimum Depth of Binary Tree](src/com/namanh/binary_tree/MinimumDepthOfBinaryTree.java)
+- 112 - [Path Sum](src/com/namanh/binary_tree/PathSum.java)
 - 144 - [Binary Tree Preorder Traversal](src/com/namanh/binary_tree/BinaryTreePreorderTraversal.java)
 - 145 - [Binary Tree Postorder Traversal](src/com/namanh/binary_tree/BinaryTreePostorderTraversal.java)
 - 404 - [Sum of Left Leaves](src/com/namanh/binary_tree/SumOfLeftLeaves.java)
 - 508 - [Most Frequent Subtree Sum](src/com/namanh/binary_tree/MostFrequentSubtreeSum.java)
 - 543 - [Diameter of Binary Tree](src/com/namanh/binary_tree/DiameterOfBinaryTree.java)
+- 637 - [Average of Levels in Binary Tree](src/com/namanh/binary_tree/AverageOfLevelsInBinaryTree.java)
 - 687 - [Longest Univalue Path](src/com/namanh/binary_tree/LongestUnivaluePath.java)
 - 1372 - [Longest ZigZag Path in a Binary Tree](src/com/namanh/binary_tree/LongestZigZagPath.java)
 
