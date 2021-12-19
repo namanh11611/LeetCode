@@ -10,6 +10,7 @@ Solve Leetcode problems
 - 448 - [Find All Numbers Disappeared in an Array](src/com/namanh/array/FindAllNumbersDisappearedInAnArray.java)
 - 485 - [Max Consecutive Ones](src/com/namanh/array/MaxConsecutiveOnes.java)
 - 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
+- 1779 - [Find Nearest Point That Has the Same X or Y Coordinate](src/com/namanh/array/FindNearestPointThatHasTheSameXOrYCoordinate.java)
 
 ### BFS
 - 102 - [Binary Tree Level Order Traversal](src/com/namanh/bfs/BinaryTreeLevelOrderTraversal.java)
@@ -80,6 +81,8 @@ Solve Leetcode problems
 - 1763 - [Longest Nice Substring](src/com/namanh/divide_and_conquer/LongestNiceSubstring.java)
 
 ### Dynamic Programming
+- 70 - [Climbing Stairs](src/com/namanh/dynamic_programming/ClimbingStairs.java)
+- 118 - [Pascal's Triangle](src/com/namanh/dynamic_programming/PascalTriangle.java)
 - 198 - [House Robber](src/com/namanh/dynamic_programming/HouseRobber.java)
 - 213 - [House Robber II](src/com/namanh/dynamic_programming/HouseRobberII.java)
 - 337 - [House Robber III](src/com/namanh/dynamic_programming/HouseRobberIII.java)
