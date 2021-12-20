@@ -85,7 +85,10 @@ Solve Leetcode problems
 - 118 - [Pascal's Triangle](src/com/namanh/dynamic_programming/PascalTriangle.java)
 - 198 - [House Robber](src/com/namanh/dynamic_programming/HouseRobber.java)
 - 213 - [House Robber II](src/com/namanh/dynamic_programming/HouseRobberII.java)
+- 300 - [Longest Increasing Subsequence](src/com/namanh/dynamic_programming/LongestIncreasingSubsequence.java)
 - 337 - [House Robber III](src/com/namanh/dynamic_programming/HouseRobberIII.java)
+- 746 - [Min Cost Climbing Stairs](src/com/namanh/dynamic_programming/MinCostClimbingStairs.java)
+- 1137 - [N-th Tribonacci Number](src/com/namanh/dynamic_programming/NthTribonacciNumber.java)
 
 ### [Hash Table](src/com/namanh/hash_table/Map.txt)
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
