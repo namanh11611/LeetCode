@@ -26,6 +26,7 @@ Solve Leetcode problems
 
 ### [Binary Search](src/com/namanh/binary_search/BinarySearch.txt)
 - 33 - [Search in Rotated Sorted Array](src/com/namanh/binary_search/SearchInRotatedSortedArray.java)
+- 35 - [Search Insert Position](src/com/namanh/binary_search/SearchInsertPosition.java)
 - 69 - [Sqrt(x)](src/com/namanh/binary_search/SqrtX.java)
 - 81 - [Search in Rotated Sorted Array II](src/com/namanh/binary_search/SearchInRotatedSortedArrayII.java)
 - 153 - [Find Minimum in Rotated Sorted Array](src/com/namanh/binary_search/FindMinimumInRotatedSortedArray.java)
