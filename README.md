@@ -88,8 +88,11 @@ Solve Leetcode problems
 - 213 - [House Robber II](src/com/namanh/dynamic_programming/HouseRobberII.java)
 - 300 - [Longest Increasing Subsequence](src/com/namanh/dynamic_programming/LongestIncreasingSubsequence.java)
 - 337 - [House Robber III](src/com/namanh/dynamic_programming/HouseRobberIII.java)
+- 583 - [Delete Operation for Two Strings](src/com/namanh/dynamic_programming/DeleteOperationForTwoStrings.java)
 - 746 - [Min Cost Climbing Stairs](src/com/namanh/dynamic_programming/MinCostClimbingStairs.java)
+- 1035 - [Uncrossed Lines](src/com/namanh/dynamic_programming/UncrossedLines.java)
 - 1137 - [N-th Tribonacci Number](src/com/namanh/dynamic_programming/NthTribonacciNumber.java)
+- 1143 - [Longest Common Subsequence](src/com/namanh/dynamic_programming/LongestCommonSubsequence.java)
 
 ### [Hash Table](src/com/namanh/hash_table/Map.txt)
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
