@@ -82,6 +82,9 @@ Solve Leetcode problems
 - 1763 - [Longest Nice Substring](src/com/namanh/divide_and_conquer/LongestNiceSubstring.java)
 
 ### Dynamic Programming
+- 62 - [Unique Paths](src/com/namanh/dynamic_programming/UniquePaths.java)
+- 63 - [Unique Paths II](src/com/namanh/dynamic_programming/UniquePathsII.java)
+- 64 - [Minimum Path Sum](src/com/namanh/dynamic_programming/MinimumPathSum.java)
 - 70 - [Climbing Stairs](src/com/namanh/dynamic_programming/ClimbingStairs.java)
 - 118 - [Pascal's Triangle](src/com/namanh/dynamic_programming/PascalTriangle.java)
 - 198 - [House Robber](src/com/namanh/dynamic_programming/HouseRobber.java)
