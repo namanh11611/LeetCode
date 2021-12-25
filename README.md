@@ -9,6 +9,7 @@ Solve Leetcode problems
 - 287 - [Find the Duplicate Number](src/com/namanh/array/FindTheDuplicateNumber.java)
 - 448 - [Find All Numbers Disappeared in an Array](src/com/namanh/array/FindAllNumbersDisappearedInAnArray.java)
 - 485 - [Max Consecutive Ones](src/com/namanh/array/MaxConsecutiveOnes.java)
+- 495 - [Teemo Attacking](src/com/namanh/array/TeemoAttacking.java)
 - 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
 - 1779 - [Find Nearest Point That Has the Same X or Y Coordinate](src/com/namanh/array/FindNearestPointThatHasTheSameXOrYCoordinate.java)
 
