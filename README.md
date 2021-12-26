@@ -4,6 +4,8 @@ Solve Leetcode problems
 
 
 ### Array
+- 56 - [Merge Intervals](src/com/namanh/array/MergeIntervals.java)
+- 57 - [Insert Interval](src/com/namanh/array/InsertInterval.java)
 - 189 - [Rotate Array](src/com/namanh/array/RotateArray.java)
 - 238 - [Product of Array Except Self](src/com/namanh/array/ProductOfArrayExceptSelf.java)
 - 287 - [Find the Duplicate Number](src/com/namanh/array/FindTheDuplicateNumber.java)
