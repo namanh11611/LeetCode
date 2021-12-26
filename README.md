@@ -130,6 +130,7 @@ Solve Leetcode problems
 
 ### Math
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
+- 650 - [2 Keys Keyboard](src/com/namanh/math/TwoKeysKeyboard.java)
 - 1753 - [Maximum Score From Removing Stones](src/com/namanh/math/MaximumScoreFromRemovingStones.java)
 
 ### Matrix
