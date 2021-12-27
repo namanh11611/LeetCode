@@ -89,6 +89,7 @@ Solve Leetcode problems
 - 63 - [Unique Paths II](src/com/namanh/dynamic_programming/UniquePathsII.java)
 - 64 - [Minimum Path Sum](src/com/namanh/dynamic_programming/MinimumPathSum.java)
 - 70 - [Climbing Stairs](src/com/namanh/dynamic_programming/ClimbingStairs.java)
+- 72 - [Edit Distance](src/com/namanh/dynamic_programming/EditDistance.java)
 - 118 - [Pascal's Triangle](src/com/namanh/dynamic_programming/PascalTriangle.java)
 - 198 - [House Robber](src/com/namanh/dynamic_programming/HouseRobber.java)
 - 213 - [House Robber II](src/com/namanh/dynamic_programming/HouseRobberII.java)
