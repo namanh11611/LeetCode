@@ -105,6 +105,7 @@ Solve Leetcode problems
 - 1035 - [Uncrossed Lines](src/com/namanh/dynamic_programming/UncrossedLines.java)
 - 1137 - [N-th Tribonacci Number](src/com/namanh/dynamic_programming/NthTribonacciNumber.java)
 - 1143 - [Longest Common Subsequence](src/com/namanh/dynamic_programming/LongestCommonSubsequence.java)
+- 1262 - [Greatest Sum Divisible by Three](src/com/namanh/dynamic_programming/GreatestSumDivisibleByThree.java)
 
 ### [Hash Table](src/com/namanh/hash_table/Map.txt)
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
