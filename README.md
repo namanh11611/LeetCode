@@ -69,6 +69,8 @@ Solve Leetcode problems
 - 90 - [Subsets II](src/com/namanh/bit_manipulation/SubsetsII.java)
 - 191 - [Number of 1 Bits](src/com/namanh/bit_manipulation/NumberOf1Bits.java)
 - 231 - [Power of Two](src/com/namanh/bit_manipulation/PowerOfTwo.java)
+- 268 - [Missing Number](src/com/namanh/bit_manipulation/MissingNumber.java)
+- 338 - [Counting Bits](src/com/namanh/bit_manipulation/CountingBits.java)
 
 ### DFS
 - 200 - [Number of Islands](src/com/namanh/dfs/NumberOfIslands.java)
