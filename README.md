@@ -87,12 +87,15 @@ Solve Leetcode problems
 - 1763 - [Longest Nice Substring](src/com/namanh/divide_and_conquer/LongestNiceSubstring.java)
 
 ### Dynamic Programming
+- 55 - [Jump Game](src/com/namanh/dynamic_programming/JumpGame.java)
 - 62 - [Unique Paths](src/com/namanh/dynamic_programming/UniquePaths.java)
 - 63 - [Unique Paths II](src/com/namanh/dynamic_programming/UniquePathsII.java)
 - 64 - [Minimum Path Sum](src/com/namanh/dynamic_programming/MinimumPathSum.java)
 - 70 - [Climbing Stairs](src/com/namanh/dynamic_programming/ClimbingStairs.java)
 - 72 - [Edit Distance](src/com/namanh/dynamic_programming/EditDistance.java)
+- 91 - [Decode Ways](src/com/namanh/dynamic_programming/DecodeWays.java)
 - 118 - [Pascal's Triangle](src/com/namanh/dynamic_programming/PascalTriangle.java)
+- 139 - [Word Break](src/com/namanh/dynamic_programming/WordBreak.java)
 - 198 - [House Robber](src/com/namanh/dynamic_programming/HouseRobber.java)
 - 213 - [House Robber II](src/com/namanh/dynamic_programming/HouseRobberII.java)
 - 300 - [Longest Increasing Subsequence](src/com/namanh/dynamic_programming/LongestIncreasingSubsequence.java)
