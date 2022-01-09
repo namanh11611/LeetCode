@@ -29,6 +29,7 @@ Solve Leetcode problems
 
 ### [Binary Search](src/com/namanh/binary_search/BinarySearch.txt)
 - 33 - [Search in Rotated Sorted Array](src/com/namanh/binary_search/SearchInRotatedSortedArray.java)
+- 34 - [Find First and Last Position of Element in Sorted Array](src/com/namanh/binary_search/FindFirstAndLastPositionOfElementInSortedArray.java)
 - 35 - [Search Insert Position](src/com/namanh/binary_search/SearchInsertPosition.java)
 - 69 - [Sqrt(x)](src/com/namanh/binary_search/SqrtX.java)
 - 81 - [Search in Rotated Sorted Array II](src/com/namanh/binary_search/SearchInRotatedSortedArrayII.java)
@@ -71,6 +72,7 @@ Solve Leetcode problems
 - 231 - [Power of Two](src/com/namanh/bit_manipulation/PowerOfTwo.java)
 - 268 - [Missing Number](src/com/namanh/bit_manipulation/MissingNumber.java)
 - 338 - [Counting Bits](src/com/namanh/bit_manipulation/CountingBits.java)
+- 1342 - [Number of Steps to Reduce a Number to Zero](src/com/namanh/bit_manipulation/NumberOfStepsToReduceANumberToZero.java)
 
 ### DFS
 - 200 - [Number of Islands](src/com/namanh/dfs/NumberOfIslands.java)
@@ -128,6 +130,7 @@ Solve Leetcode problems
 
 ### [Linked List](src/com/namanh/linked_list/LinkedList.txt)
 - 2 - [Add Two Numbers](src/com/namanh/linked_list/AddTwoNumbers.java)
+- 19 - [Remove Nth Node From End of List](src/com/namanh/linked_list/RemoveNthNodeFromEndOfList.java)
 - 21 - [Merge Two Sorted Lists](src/com/namanh/linked_list/MergeTwoSortedLists.java)
 - 141 - [Linked List Cycle](src/com/namanh/linked_list/LinkedListCycle.java)
 - 142 - [Linked List Cycle II](src/com/namanh/linked_list/LinkedListCycleII.java)
