@@ -140,6 +140,7 @@ Solve Leetcode problems
 - 206 - [Reverse Linked List](src/com/namanh/linked_list/ReverseLinkedList.java)
 - 234 - [Palindrome Linked List](src/com/namanh/linked_list/PalindromeLinkedList.java)
 - 876 - [Middle of the Linked List](src/com/namanh/linked_list/MiddleLinkedList.java)
+- 2130 - [Maximum Twin Sum of a Linked List](src/com/namanh/linked_list/MaximumTwinSumOfALinkedList.java)
 
 ### Math
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
