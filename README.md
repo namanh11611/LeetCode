@@ -231,6 +231,7 @@ Solve Leetcode problems
 - 992 - [Subarrays with K Different Integers](src/com/namanh/two_pointers/SubarraysWithKDifferentIntegers.java)
 - 1876 - [Substrings of Size Three with Distinct Characters](src/com/namanh/two_pointers/SubstringsOfSizeThreeWithDistinctCharacters.java)
 - 2149 - [Rearrange Array Elements by Sign](src/com/namanh/two_pointers/RearrangeArrayElementsBySign.java)
+- 2161 - [Partition Array According to Given Pivot](src/com/namanh/two_pointers/PartitionArrayAccordingToGivenPivot.java)
 
 ### Union Find
 - 684 - [Redundant Connection](src/com/namanh/union_find/RedundantConnection.java)
