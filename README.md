@@ -230,6 +230,7 @@ Solve Leetcode problems
 - 904 - [Fruit Into Baskets](src/com/namanh/two_pointers/FruitIntoBaskets.java)
 - 992 - [Subarrays with K Different Integers](src/com/namanh/two_pointers/SubarraysWithKDifferentIntegers.java)
 - 1876 - [Substrings of Size Three with Distinct Characters](src/com/namanh/two_pointers/SubstringsOfSizeThreeWithDistinctCharacters.java)
+- 1877 - [Minimize Maximum Pair Sum in Array](src/com/namanh/two_pointers/MinimizeMaximumPairSumInArray.java)
 - 2149 - [Rearrange Array Elements by Sign](src/com/namanh/two_pointers/RearrangeArrayElementsBySign.java)
 - 2161 - [Partition Array According to Given Pivot](src/com/namanh/two_pointers/PartitionArrayAccordingToGivenPivot.java)
 
