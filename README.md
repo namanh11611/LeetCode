@@ -188,6 +188,7 @@ Solve Leetcode problems
 - 20 - [Valid Parentheses](src/com/namanh/stack/ValidParentheses.java)
 - 150 - [Evaluate Reverse Polish Notation](src/com/namanh/stack/EvaluateReversePolishNotation.java)
 - 1047 - [Remove All Adjacent Duplicates In String](src/com/namanh/stack/RemoveAllAdjacentDuplicatesInString.java)
+- 1472 - [Design Browser History](src/com/namanh/stack/BrowserHistory.java)
 
 ### String
 - 3 - [Longest Substring Without Repeating Characters](src/com/namanh/string/LongestSubstringWithoutRepeatingCharacters.java)
