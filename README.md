@@ -142,6 +142,7 @@ Solve Leetcode problems
 - 234 - [Palindrome Linked List](src/com/namanh/linked_list/PalindromeLinkedList.java)
 - 876 - [Middle of the Linked List](src/com/namanh/linked_list/MiddleLinkedList.java)
 - 2130 - [Maximum Twin Sum of a Linked List](src/com/namanh/linked_list/MaximumTwinSumOfALinkedList.java)
+- 2181 - [Merge Nodes in Between Zeros](src/com/namanh/linked_list/MergeNodesInBetweenZeros.java)
 
 ### Math
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
