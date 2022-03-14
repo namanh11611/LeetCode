@@ -141,6 +141,7 @@ Solve Leetcode problems
 - 206 - [Reverse Linked List](src/com/namanh/linked_list/ReverseLinkedList.java)
 - 234 - [Palindrome Linked List](src/com/namanh/linked_list/PalindromeLinkedList.java)
 - 876 - [Middle of the Linked List](src/com/namanh/linked_list/MiddleLinkedList.java)
+- 1669 - [Merge In Between Linked Lists](src/com/namanh/linked_list/MergeInBetweenLinkedLists.java)
 - 2130 - [Maximum Twin Sum of a Linked List](src/com/namanh/linked_list/MaximumTwinSumOfALinkedList.java)
 - 2181 - [Merge Nodes in Between Zeros](src/com/namanh/linked_list/MergeNodesInBetweenZeros.java)
 
