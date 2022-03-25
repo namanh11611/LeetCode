@@ -80,6 +80,7 @@ Solve Leetcode problems
 - 547 - [Number of Provinces](src/com/namanh/dfs/NumberOfProvinces.java)
 - 695 - [Max Area of Island](src/com/namanh/dfs/MaxAreaOfIsland.java)
 - 841 - [Keys and Rooms](src/com/namanh/dfs/KeysAndRooms.java)
+- 980 - [Unique Paths III](src/com/namanh/dfs/UniquePathsIII.java)
 
 ### Dijkstra
 - 743 - [Network Delay Time](src/com/namanh/dijkstra/NetworkDelayTime.java)
