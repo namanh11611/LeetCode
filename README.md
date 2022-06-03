@@ -201,6 +201,7 @@ Solve Leetcode problems
 - 125 - [Valid Palindrome](src/com/namanh/string/ValidPalindrome.java)
 - 680 - [Valid Palindrome II](src/com/namanh/string/ValidPalindromeII.java)
 - 696 - [Count Binary Substrings](src/com/namanh/string/CountBinarySubstrings.java)
+- 1689 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/com/namanh/string/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
 
 ### Sum
 - 1 - [Two Sum](src/com/namanh/sum/TwoSum.java)
