@@ -14,6 +14,7 @@ Solve Leetcode problems
 - 495 - [Teemo Attacking](src/com/namanh/array/TeemoAttacking.java)
 - 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
 - 1779 - [Find Nearest Point That Has the Same X or Y Coordinate](src/com/namanh/array/FindNearestPointThatHasTheSameXOrYCoordinate.java)
+- 1828 - [Queries on Number of Points Inside a Circle](src/com/namanh/array/QueriesOnNumberOfPointsInsideACircle.java)
 
 ### BFS
 - 102 - [Binary Tree Level Order Traversal](src/com/namanh/bfs/BinaryTreeLevelOrderTraversal.java)
