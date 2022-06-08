@@ -158,6 +158,7 @@ Solve Leetcode problems
 
 ### Matrix
 - 48 - [Rotate Image](src/com/namanh/matrix/RotateImage.java)
+- 1476 - [Subrectangle Queries](src/com/namanh/matrix/SubrectangleQueries.kt)
 
 ### Minimum Spanning Tree
 - 1584 - [Min Cost to Connect All Points](src/com/namanh/minimum_spanning_tree/MinCostToConnectAllPoints.java)
