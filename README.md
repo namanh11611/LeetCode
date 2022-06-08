@@ -242,6 +242,7 @@ Solve Leetcode problems
 - 845 - [Longest Mountain in Array](src/com/namanh/two_pointers/LongestMountainInArray.java)
 - 904 - [Fruit Into Baskets](src/com/namanh/two_pointers/FruitIntoBaskets.java)
 - 992 - [Subarrays with K Different Integers](src/com/namanh/two_pointers/SubarraysWithKDifferentIntegers.java)
+- 1769 - [Minimum Number of Operations to Move All Balls to Each Box](src/com/namanh/two_pointers/MinimumNumberOfOperationsToMoveAllBallsToEachBox.kt)
 - 1876 - [Substrings of Size Three with Distinct Characters](src/com/namanh/two_pointers/SubstringsOfSizeThreeWithDistinctCharacters.java)
 - 1877 - [Minimize Maximum Pair Sum in Array](src/com/namanh/two_pointers/MinimizeMaximumPairSumInArray.java)
 - 2149 - [Rearrange Array Elements by Sign](src/com/namanh/two_pointers/RearrangeArrayElementsBySign.java)
