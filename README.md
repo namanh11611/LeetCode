@@ -203,6 +203,7 @@ Solve Leetcode problems
 - 3 - [Longest Substring Without Repeating Characters](src/com/namanh/string/LongestSubstringWithoutRepeatingCharacters.java)
 - 5 - [Longest Palindromic Substring](src/com/namanh/string/LongestPalindromicSubstring.java)
 - 125 - [Valid Palindrome](src/com/namanh/string/ValidPalindrome.java)
+- 535 - [Encode and Decode TinyURL](src/com/namanh/string/EncodeAndDecodeTinyURL.kt)
 - 680 - [Valid Palindrome II](src/com/namanh/string/ValidPalindromeII.java)
 - 696 - [Count Binary Substrings](src/com/namanh/string/CountBinarySubstrings.java)
 - 1689 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/com/namanh/string/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
