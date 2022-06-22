@@ -65,6 +65,7 @@ Solve Leetcode problems
 - 543 - [Diameter of Binary Tree](src/com/namanh/binary_tree/DiameterOfBinaryTree.java)
 - 637 - [Average of Levels in Binary Tree](src/com/namanh/binary_tree/AverageOfLevelsInBinaryTree.java)
 - 687 - [Longest Univalue Path](src/com/namanh/binary_tree/LongestUnivaluePath.java)
+- 1315 - [Sum of Nodes with Even-Valued Grandparent](src/com/namanh/binary_tree/SumOfNodesWithEvenValuedGrandparent.kt)
 - 1372 - [Longest ZigZag Path in a Binary Tree](src/com/namanh/binary_tree/LongestZigZagPath.java)
 
 ### Bit Manipulation
