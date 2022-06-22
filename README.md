@@ -67,6 +67,7 @@ Solve Leetcode problems
 - 687 - [Longest Univalue Path](src/com/namanh/binary_tree/LongestUnivaluePath.java)
 - 1315 - [Sum of Nodes with Even-Valued Grandparent](src/com/namanh/binary_tree/SumOfNodesWithEvenValuedGrandparent.kt)
 - 1372 - [Longest ZigZag Path in a Binary Tree](src/com/namanh/binary_tree/LongestZigZagPath.java)
+- 2265 - [Count Nodes Equal to Average of Subtree](src/com/namanh/binary_tree/CountNodesEqualToAverageOfSubtree.kt)
 
 ### Bit Manipulation
 - 78 - [Subsets](src/com/namanh/bit_manipulation/Subsets.java)
