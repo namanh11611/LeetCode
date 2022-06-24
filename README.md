@@ -72,6 +72,7 @@ Solve Leetcode problems
 ### Bit Manipulation
 - 78 - [Subsets](src/com/namanh/bit_manipulation/Subsets.java)
 - 90 - [Subsets II](src/com/namanh/bit_manipulation/SubsetsII.java)
+- 190 - [Reverse Bits](src/com/namanh/bit_manipulation/ReverseBits.kt)
 - 191 - [Number of 1 Bits](src/com/namanh/bit_manipulation/NumberOf1Bits.java)
 - 231 - [Power of Two](src/com/namanh/bit_manipulation/PowerOfTwo.java)
 - 268 - [Missing Number](src/com/namanh/bit_manipulation/MissingNumber.java)
