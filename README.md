@@ -78,6 +78,7 @@ Solve Leetcode problems
 - 231 - [Power of Two](src/com/namanh/bit_manipulation/PowerOfTwo.java)
 - 268 - [Missing Number](src/com/namanh/bit_manipulation/MissingNumber.java)
 - 338 - [Counting Bits](src/com/namanh/bit_manipulation/CountingBits.java)
+- 371 - [Sum of Two Integers](src/com/namanh/bit_manipulation/SumOfTwoIntegers.kt)
 - 1342 - [Number of Steps to Reduce a Number to Zero](src/com/namanh/bit_manipulation/NumberOfStepsToReduceANumberToZero.java)
 
 ### DFS
