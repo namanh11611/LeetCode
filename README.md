@@ -163,6 +163,7 @@ Solve Leetcode problems
 
 ### Matrix
 - 48 - [Rotate Image](src/com/namanh/matrix/RotateImage.java)
+- 54 - [Spiral Matrix](src/com/namanh/matrix/SpiralMatrix.kt)
 - 73 - [Set Matrix Zeroes](src/com/namanh/matrix/SetMatrixZeroes.kt)
 - 807 - [Max Increase to Keep City Skyline](src/com/namanh/matrix/MaxIncreaseToKeepCitySkyline.kt)
 - 1476 - [Subrectangle Queries](src/com/namanh/matrix/SubrectangleQueries.kt)
