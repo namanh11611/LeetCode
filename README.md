@@ -55,6 +55,7 @@ Solve Leetcode problems
 
 ### Binary Tree
 - 94 - [Binary Tree Inorder Traversal](src/com/namanh/binary_tree/BinaryTreeInorderTraversal.java)
+- 100 - [Same Tree](src/com/namanh/binary_tree/SameTree.kt)
 - 104 - [Maximum Depth of Binary Tree](src/com/namanh/binary_tree/MaximumDepthOfBinaryTree.java)
 - 111 - [Minimum Depth of Binary Tree](src/com/namanh/binary_tree/MinimumDepthOfBinaryTree.java)
 - 112 - [Path Sum](src/com/namanh/binary_tree/PathSum.java)
