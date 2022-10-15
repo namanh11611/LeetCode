@@ -162,6 +162,7 @@ Solve Leetcode problems
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
 - 650 - [2 Keys Keyboard](src/com/namanh/math/TwoKeysKeyboard.java)
 - 1753 - [Maximum Score From Removing Stones](src/com/namanh/math/MaximumScoreFromRemovingStones.java)
+- 2396 - [Strictly Palindromic Number](src/com/namanh/math/StrictlyPalindromicNumber.kt)
 
 ### Matrix
 - 48 - [Rotate Image](src/com/namanh/matrix/RotateImage.java)
