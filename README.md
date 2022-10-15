@@ -133,6 +133,7 @@ Solve Leetcode problems
 - 387 - [First Unique Character in a String](src/com/namanh/hash_table/FirstUniqueCharacter.java)
 - 734 - [Sentence Similarity](src/com/namanh/hash_table/SentenceSimilarity.java)
 - 890 - [Find and Replace Pattern](src/com/namanh/hash_table/FindAndReplacePattern.java)
+- 1282 - [Group the People Given the Group Size They Belong To](src/com/namanh/hash_table/GroupThePeopleGivenTheGroupSizeTheyBelongTo.kt)
 - 1748 - [Sum of Unique Elements](src/com/namanh/hash_table/SumOfUniqueElements.java)
 
 ### [Heap (Priority Queue)](src/com/namanh/heap_priority_queue/PriorityQueue.txt)
