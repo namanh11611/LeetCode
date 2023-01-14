@@ -81,6 +81,7 @@ Solve Leetcode problems
 - 338 - [Counting Bits](src/com/namanh/bit_manipulation/CountingBits.java)
 - 371 - [Sum of Two Integers](src/com/namanh/bit_manipulation/SumOfTwoIntegers.kt)
 - 1342 - [Number of Steps to Reduce a Number to Zero](src/com/namanh/bit_manipulation/NumberOfStepsToReduceANumberToZero.java)
+- 2433 - [Find The Original Array of Prefix Xor](src/com/namanh/bit_manipulation/FindTheOriginalArrayOfPrefixXor.kt)
 
 ### DFS
 - 200 - [Number of Islands](src/com/namanh/dfs/NumberOfIslands.java)
