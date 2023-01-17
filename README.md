@@ -204,6 +204,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 283 - [Move Zeroes](src/com/namanh/sort/MoveZeroes.java)
 - 905 - [Sort Array By Parity](src/com/namanh/sort/SortArrayByParity.java)
 - 922 - [Sort Array By Parity II](src/com/namanh/sort/SortArrayByParityII.java)
+- 1637 - [Widest Vertical Area Between Two Points Containing No Points](src/com/namanh/sort/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.kt)
 
 ### Stack
 - 20 - [Valid Parentheses](src/com/namanh/stack/ValidParentheses.java)
