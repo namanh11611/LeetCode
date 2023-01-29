@@ -96,6 +96,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1514 - [Path with Maximum Probability](src/com/namanh/dijkstra/PathWithMaximumProbability.java)
 
 ### Divide and Conquer
+- 654 - [Maximum Binary Tree](src/com/namanh/divide_and_conquer/MaximumBinaryTree.kt)
 - 1763 - [Longest Nice Substring](src/com/namanh/divide_and_conquer/LongestNiceSubstring.java)
 
 ### Dynamic Programming
