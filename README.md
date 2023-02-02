@@ -175,6 +175,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 73 - [Set Matrix Zeroes](src/com/namanh/matrix/SetMatrixZeroes.kt)
 - 807 - [Max Increase to Keep City Skyline](src/com/namanh/matrix/MaxIncreaseToKeepCitySkyline.kt)
 - 1476 - [Subrectangle Queries](src/com/namanh/matrix/SubrectangleQueries.kt)
+- 2125 - [Number of Laser Beams in a Bank](src/com/namanh/matrix/NumberOfLaserBeamsInABank.kt)
 
 ### Minimum Spanning Tree
 - 1584 - [Min Cost to Connect All Points](src/com/namanh/minimum_spanning_tree/MinCostToConnectAllPoints.java)
