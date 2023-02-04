@@ -220,6 +220,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 ### String
 - 3 - [Longest Substring Without Repeating Characters](src/com/namanh/string/LongestSubstringWithoutRepeatingCharacters.java)
 - 5 - [Longest Palindromic Substring](src/com/namanh/string/LongestPalindromicSubstring.java)
+- 6 - [Zigzag Conversion](src/com/namanh/string/ZigzagConversion.kt)
 - 125 - [Valid Palindrome](src/com/namanh/string/ValidPalindrome.java)
 - 535 - [Encode and Decode TinyURL](src/com/namanh/string/EncodeAndDecodeTinyURL.kt)
 - 680 - [Valid Palindrome II](src/com/namanh/string/ValidPalindromeII.java)
