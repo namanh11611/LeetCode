@@ -15,6 +15,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 495 - [Teemo Attacking](src/com/namanh/array/TeemoAttacking.java)
 - 1375 - [Bulb Switcher III](src/com/namanh/array/BulbSwitcherIII.java)
 - 1409 - [Queries on a Permutation With Key](src/com/namanh/array/QueriesOnAPermutationWithKey.kt)
+- 1470 - [Shuffle the Array](src/com/namanh/array/ShuffleTheArray.kt)
 - 1779 - [Find Nearest Point That Has the Same X or Y Coordinate](src/com/namanh/array/FindNearestPointThatHasTheSameXOrYCoordinate.java)
 - 1828 - [Queries on Number of Points Inside a Circle](src/com/namanh/array/QueriesOnNumberOfPointsInsideACircle.java)
 
