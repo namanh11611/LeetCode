@@ -103,6 +103,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1763 - [Longest Nice Substring](src/com/namanh/divide_and_conquer/LongestNiceSubstring.java)
 
 ### Dynamic Programming
+- 45 - [Jump Game II](src/com/namanh/dynamic_programming/JumpGameII.kt)
 - 55 - [Jump Game](src/com/namanh/dynamic_programming/JumpGame.java)
 - 62 - [Unique Paths](src/com/namanh/dynamic_programming/UniquePaths.java)
 - 63 - [Unique Paths II](src/com/namanh/dynamic_programming/UniquePathsII.java)
