@@ -9,4 +9,7 @@ Queue<Integer> queue = new PriorityQueue<>(Collections.reverseOrder());
 or
 Queue<Integer> queue = new PriorityQueue<>((a,b) -> Integer.compare(b,a));
 
+Kotlin:
+val queue = PriorityQueue<IntArray>(compareBy { it[0] })
+
 See more in [Queue](../queue/Queue.txt)

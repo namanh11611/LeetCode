@@ -147,6 +147,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 347 - [Top K Frequent Elements](src/com/namanh/heap_priority_queue/TopKFrequentElements.java)
 - 703 - [Kth Largest Element in a Stream](src/com/namanh/heap_priority_queue/KthLargest.java)
 - 1329 - [Sort the Matrix Diagonally](src/com/namanh/heap_priority_queue/SortTheMatrixDiagonally.kt)
+- 2545 - [Sort the Students by Their Kth Score](src/com/namanh/heap_priority_queue/SortTheStudentsByTheirKthScore.kt)
 
 ### [Linked List](src/com/namanh/linked_list/LinkedList.txt)
 - 2 - [Add Two Numbers](src/com/namanh/linked_list/AddTwoNumbers.java)
