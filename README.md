@@ -141,6 +141,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 890 - [Find and Replace Pattern](src/com/namanh/hash_table/FindAndReplacePattern.java)
 - 1282 - [Group the People Given the Group Size They Belong To](src/com/namanh/hash_table/GroupThePeopleGivenTheGroupSizeTheyBelongTo.kt)
 - 1748 - [Sum of Unique Elements](src/com/namanh/hash_table/SumOfUniqueElements.java)
+- 1817 - [Finding the Users Active Minutes](src/com/namanh/hash_table/FindingTheUsersActiveMinutes.kt)
 
 ### [Heap (Priority Queue)](src/com/namanh/heap_priority_queue/PriorityQueue.txt)
 - 23 - [Merge k Sorted Lists](src/com/namanh/heap_priority_queue/MergeKSortedLists.java)
