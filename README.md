@@ -200,6 +200,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1124 - [Longest Well-Performing Interval](src/com/namanh/prefix_sum/LongestWellPerformingInterval.java)
 - 1480 - [Running Sum of 1D Array](src/com/namanh/prefix_sum/RunningSum.java)
 - 1590 - [Make Sum Divisible by P](src/com/namanh/prefix_sum/MakeSumDivisibleByP.java)
+- 2391 - [Minimum Amount of Time to Collect Garbage](src/com/namanh/prefix_sum/MinimumAmountOfTimeToCollectGarbage.kt)
 
 ### [Queue](src/com/namanh/queue/Queue.txt)
 - 239 - [Sliding Window Maximum](src/com/namanh/queue/SlidingWindowMaximum.java)
