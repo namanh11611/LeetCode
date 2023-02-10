@@ -18,6 +18,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1470 - [Shuffle the Array](src/com/namanh/array/ShuffleTheArray.kt)
 - 1779 - [Find Nearest Point That Has the Same X or Y Coordinate](src/com/namanh/array/FindNearestPointThatHasTheSameXOrYCoordinate.java)
 - 1828 - [Queries on Number of Points Inside a Circle](src/com/namanh/array/QueriesOnNumberOfPointsInsideACircle.java)
+- 1909 - [Remove One Element to Make the Array Strictly Increasing](src/com/namanh/array/RemoveOneElementToMakeTheArrayStrictlyIncreasing.kt)
 - 1920 - [Build Array from Permutation](src/com/namanh/array/BuildArrayFromPermutation.kt)
 
 ### BFS
