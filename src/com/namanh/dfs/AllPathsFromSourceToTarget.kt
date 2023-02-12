@@ -31,4 +31,23 @@ object AllPathsFromSourceToTarget {
             path.remove(node)
         }
     }
+
+    // Optimized code from ChatGPT
+    fun allPathsSourceTarget1(graph: Array<IntArray>): List<List<Int>> {
+        val result = mutableListOf<List<Int>>()
+        dfs(graph, IntArray(graph.size), 0, result)
+        return result
+    }
+
+    fun dfs(graph: Array<IntArray>, path: IntArray, index: Int, result: MutableList<List<Int>>) {
+        val prev = path[index]
+        if (prev == graph.size - 1) {
+            result.add(path.slice(0 until index + 1).toList())
+            return
+        }
+        for (node in graph[prev]) {
+            path[index + 1] = node
+            dfs(graph, path, index + 1, result)
+        }
+    }
 }
