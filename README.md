@@ -175,6 +175,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 ### Math
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
 - 650 - [2 Keys Keyboard](src/com/namanh/math/TwoKeysKeyboard.java)
+- 1523 - [Count Odd Numbers in an Interval Range](src/com/namanh/math/CountOddNumbersInAnIntervalRange.kt)
 - 1551 - [Minimum Operations to Make Array Equal](src/com/namanh/math/MinimumOperationsToMakeArrayEqual.kt)
 - 1753 - [Maximum Score From Removing Stones](src/com/namanh/math/MaximumScoreFromRemovingStones.java)
 - 2396 - [Strictly Palindromic Number](src/com/namanh/math/StrictlyPalindromicNumber.kt)
