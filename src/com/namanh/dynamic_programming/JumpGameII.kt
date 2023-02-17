@@ -23,7 +23,7 @@ object JumpGameII {
         var lastIdxOfCurStep = 0
         var maxReach = 0
         for (i in 0 until nums.size - 1) {
-            maxReach = maxReach.coerceAtLeast(i + nums[i])
+            maxReach = maxOf(maxReach, i + nums[i])
             if (i == lastIdxOfCurStep) {
                 step++
                 lastIdxOfCurStep = maxReach
@@ -70,7 +70,7 @@ object JumpGameII {
         for (i in 1 until size) {
             for (j in 0 until i) {
                 if (i - j <= nums[j]) {
-                    steps[i] = steps[i].coerceAtMost(steps[j] + 1)
+                    steps[i] = minOf(steps[i], steps[j] + 1)
                 }
             }
         }

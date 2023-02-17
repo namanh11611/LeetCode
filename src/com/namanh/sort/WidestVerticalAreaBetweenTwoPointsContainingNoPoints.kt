@@ -17,7 +17,7 @@ class WidestVerticalAreaBetweenTwoPointsContainingNoPoints {
         points.sortBy { it[0] }
         var max = points[1][0] - points[0][0]
         for (i in 2 until points.size) {
-            max = max.coerceAtLeast(points[i][0] - points[i - 1][0])
+            max = maxOf(max, points[i][0] - points[i - 1][0])
         }
         return max
     }
