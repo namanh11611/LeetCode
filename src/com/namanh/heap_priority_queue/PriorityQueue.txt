@@ -11,5 +11,6 @@ Queue<Integer> queue = new PriorityQueue<>((a,b) -> Integer.compare(b,a));
 
 Kotlin:
 val queue = PriorityQueue<IntArray>(compareBy { it[0] })
+val queue = PriorityQueue<IntArray> { a, b -> a[0] - b[0] }
 
 See more in [Queue](../queue/Queue.txt)
