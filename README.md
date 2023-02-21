@@ -57,11 +57,13 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 285 - [Inorder Successor in BST](src/com/namanh/binary_search_tree/InorderSuccessorInBST.java)
 - 450 - [Delete Node in a BST](src/com/namanh/binary_search_tree/DeleteNodeInABST.java)
 - 530 - [Minimum Absolute Difference in BST](src/com/namanh/binary_search_tree/MinimumAbsoluteDifferenceInBST.kt)
+- 538 - [Convert BST to Greater Tree](src/com/namanh/binary_search_tree/ConvertBstToGreaterTree.kt)
 - 669 - [Trim a Binary Search Tree](src/com/namanh/binary_search_tree/TrimABinarySearchTree.java)
 - 700 - [Search in a Binary Search Tree](src/com/namanh/binary_search_tree/SearchInABinarySearchTree.java)
 - 701 - [Insert into a Binary Search Tree](src/com/namanh/binary_search_tree/InsertIntoABinarySearchTree.java)
 - 783 - [Minimum Distance Between BST Nodes](src/com/namanh/binary_search_tree/MinimumDistanceBetweenBSTNodes.kt)
 - 938 - [Range Sum of BST](src/com/namanh/binary_search_tree/RangeSumOfBST.java)
+- 1038 - [Binary Search Tree to Greater Sum Tree](src/com/namanh/binary_search_tree/BinarySearchTreeToGreaterSumTree.kt)
 
 ### Binary Tree
 - 94 - [Binary Tree Inorder Traversal](src/com/namanh/binary_tree/BinaryTreeInorderTraversal.java)
