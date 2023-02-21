@@ -197,6 +197,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 657 - [Robot Return to Origin](src/com/namanh/matrix/RobotReturnToOrigin.kt)
 - 807 - [Max Increase to Keep City Skyline](src/com/namanh/matrix/MaxIncreaseToKeepCitySkyline.kt)
 - 1476 - [Subrectangle Queries](src/com/namanh/matrix/SubrectangleQueries.kt)
+- 2120 - [Execution of All Suffix Instructions Staying in a Grid](src/com/namanh/matrix/ExecutionOfAllSuffixInstructionsStayingInAGrid.kt)
 - 2125 - [Number of Laser Beams in a Bank](src/com/namanh/matrix/NumberOfLaserBeamsInABank.kt)
 
 ### Minimum Spanning Tree
