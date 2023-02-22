@@ -50,6 +50,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 702 - [Search in a Sorted Array of Unknown Size](src/com/namanh/binary_search/SearchInASortedArrayOfUnknownSize.java)
 - 704 - [Binary Search](src/com/namanh/binary_search/BinarySearch.java)
 - 852 - [Peak Index in a Mountain Array](src/com/namanh/binary_search/PeakIndexInAMountainArray.java)
+- 1101 - [Capacity To Ship Packages Within D Days](src/com/namanh/binary_search/CapacityToShipPackagesWithinDDays.kt)
 - 1631 - [Path With Minimum Effort](src/com/namanh/binary_search/PathWithMinimumEffort.java)
 - 1760 - [Minimum Limit of Balls in a Bag](src/com/namanh/binary_search/MinimumLimitOfBallsInABag.java)
 
