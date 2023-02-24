@@ -192,6 +192,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1551 - [Minimum Operations to Make Array Equal](src/com/namanh/math/MinimumOperationsToMakeArrayEqual.kt)
 - 1753 - [Maximum Score From Removing Stones](src/com/namanh/math/MaximumScoreFromRemovingStones.java)
 - 2396 - [Strictly Palindromic Number](src/com/namanh/math/StrictlyPalindromicNumber.kt)
+- 2469 - [Convert the Temperature](src/com/namanh/math/ConvertTheTemperature.kt)
 
 ### Matrix
 - 48 - [Rotate Image](src/com/namanh/matrix/RotateImage.java)
