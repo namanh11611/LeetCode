@@ -22,6 +22,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1909 - [Remove One Element to Make the Array Strictly Increasing](src/com/namanh/array/RemoveOneElementToMakeTheArrayStrictlyIncreasing.kt)
 - 1920 - [Build Array from Permutation](src/com/namanh/array/BuildArrayFromPermutation.kt)
 - 1929 - [Concatenation of Array](src/com/namanh/array/ConcatenationOfArray.kt)
+- 2079 - [Watering Plants](src/com/namanh/array/WateringPlants.kt)
 
 ### BFS
 - 102 - [Binary Tree Level Order Traversal](src/com/namanh/bfs/BinaryTreeLevelOrderTraversal.java)
