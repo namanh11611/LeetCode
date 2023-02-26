@@ -23,6 +23,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1920 - [Build Array from Permutation](src/com/namanh/array/BuildArrayFromPermutation.kt)
 - 1929 - [Concatenation of Array](src/com/namanh/array/ConcatenationOfArray.kt)
 - 2079 - [Watering Plants](src/com/namanh/array/WateringPlants.kt)
+- 2574 - [Left and Right Sum Differences](src/com/namanh/array/LeftAndRightSumDifferences.kt)
 
 ### BFS
 - 102 - [Binary Tree Level Order Traversal](src/com/namanh/bfs/BinaryTreeLevelOrderTraversal.java)
@@ -256,6 +257,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 696 - [Count Binary Substrings](src/com/namanh/string/CountBinarySubstrings.java)
 - 1108 - [Defanging an IP Address](src/com/namanh/string/DefangingAnIPAddress.kt)
 - 1689 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/com/namanh/string/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
+- 2575 - [Find the Divisibility Array of a String](src/com/namanh/string/FindTheDivisibilityArrayOfAString.kt)
 
 ### Sum
 - 1 - [Two Sum](src/com/namanh/sum/TwoSum.java)
@@ -300,6 +302,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1877 - [Minimize Maximum Pair Sum in Array](src/com/namanh/two_pointers/MinimizeMaximumPairSumInArray.java)
 - 2149 - [Rearrange Array Elements by Sign](src/com/namanh/two_pointers/RearrangeArrayElementsBySign.java)
 - 2161 - [Partition Array According to Given Pivot](src/com/namanh/two_pointers/PartitionArrayAccordingToGivenPivot.java)
+- 2576 - [Find the Maximum Number of Marked Indices](src/com/namanh/two_pointers/FindTheMaximumNumberOfMarkedIndices.kt)
 
 ### Union Find
 - 684 - [Redundant Connection](src/com/namanh/union_find/RedundantConnection.java)
