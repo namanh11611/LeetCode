@@ -68,6 +68,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 701 - [Insert into a Binary Search Tree](src/com/namanh/binary_search_tree/InsertIntoABinarySearchTree.java)
 - 783 - [Minimum Distance Between BST Nodes](src/com/namanh/binary_search_tree/MinimumDistanceBetweenBSTNodes.kt)
 - 938 - [Range Sum of BST](src/com/namanh/binary_search_tree/RangeSumOfBST.java)
+- 1008 - [Construct Binary Search Tree from Preorder Traversal](src/com/namanh/binary_search_tree/ConstructBinarySearchTreeFromPreorderTraversal.kt)
 - 1038 - [Binary Search Tree to Greater Sum Tree](src/com/namanh/binary_search_tree/BinarySearchTreeToGreaterSumTree.kt)
 
 ### Binary Tree
