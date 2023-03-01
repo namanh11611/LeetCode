@@ -240,6 +240,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 148 - [Sort List](src/com/namanh/sort/SortList.java)
 - 283 - [Move Zeroes](src/com/namanh/sort/MoveZeroes.java)
 - 905 - [Sort Array By Parity](src/com/namanh/sort/SortArrayByParity.java)
+- 912 - [Sort an Array](src/com/namanh/sort/SortAnArray.kt)
 - 922 - [Sort Array By Parity II](src/com/namanh/sort/SortArrayByParityII.java)
 - 1637 - [Widest Vertical Area Between Two Points Containing No Points](src/com/namanh/sort/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.kt)
 
