@@ -70,6 +70,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 938 - [Range Sum of BST](src/com/namanh/binary_search_tree/RangeSumOfBST.java)
 - 1008 - [Construct Binary Search Tree from Preorder Traversal](src/com/namanh/binary_search_tree/ConstructBinarySearchTreeFromPreorderTraversal.kt)
 - 1038 - [Binary Search Tree to Greater Sum Tree](src/com/namanh/binary_search_tree/BinarySearchTreeToGreaterSumTree.kt)
+- 1305 - [All Elements in Two Binary Search Trees](src/com/namanh/binary_search_tree/AllElementsInTwoBinarySearchTrees.kt)
 - 1382 - [Balance a Binary Search Tree](src/com/namanh/binary_search_tree/BalanceABinarySearchTree.kt)
 
 ### Binary Tree
