@@ -151,6 +151,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 
 ### Graph
 - 207 - [Course Schedule](src/com/namanh/graph/CourseSchedule.java)
+- 1557 - [Minimum Number of Vertices to Reach All Nodes](src/com/namanh/graph/MinimumNumberOfVerticesToReachAllNodes.kt)
 
 ### [Hash Table](src/com/namanh/hash_table/Map.txt)
 - 217 - [Contains Duplicate](src/com/namanh/hash_table/ContainsDuplicate.java)
