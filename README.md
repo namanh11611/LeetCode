@@ -310,6 +310,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1877 - [Minimize Maximum Pair Sum in Array](src/com/namanh/two_pointers/MinimizeMaximumPairSumInArray.java)
 - 2149 - [Rearrange Array Elements by Sign](src/com/namanh/two_pointers/RearrangeArrayElementsBySign.java)
 - 2161 - [Partition Array According to Given Pivot](src/com/namanh/two_pointers/PartitionArrayAccordingToGivenPivot.java)
+- 2444 - [Count Subarrays With Fixed Bounds](src/com/namanh/two_pointers/CountSubarraysWithFixedBounds.kt)
 - 2576 - [Find the Maximum Number of Marked Indices](src/com/namanh/two_pointers/FindTheMaximumNumberOfMarkedIndices.kt)
 
 ### Union Find
