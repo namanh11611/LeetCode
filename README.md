@@ -38,6 +38,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1162 - [As Far from Land as Possible](src/com/namanh/bfs/AsFarFromLandAsPossible.kt)
 - 1293 - [Shortest Path in a Grid with Obstacles Elimination](src/com/namanh/bfs/ShortestPathInAGridWithObstaclesElimination.java)
 - 1302 - [Deepest Leaves Sum](src/com/namanh/bfs/DeepestLeavesSum.java)
+- 1345 - [Jump Game IV](src/com/namanh/bfs/JumpGameIV.kt)
 - 2059 - [Minimum Operations to Convert Number](src/com/namanh/bfs/MinimumOperationsToConvertNumber.java)
 
 ### [Binary Search](src/com/namanh/binary_search/BinarySearch.txt)
