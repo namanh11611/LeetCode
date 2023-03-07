@@ -57,6 +57,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1539 - [Kth Missing Positive Number](src/com/namanh/binary_search/KthMissingPositiveNumber.kt)
 - 1631 - [Path With Minimum Effort](src/com/namanh/binary_search/PathWithMinimumEffort.java)
 - 1760 - [Minimum Limit of Balls in a Bag](src/com/namanh/binary_search/MinimumLimitOfBallsInABag.java)
+- 2187 - [Minimum Time to Complete Trips](src/com/namanh/binary_search/MinimumTimeToCompleteTrips.kt)
 
 ### [Binary Search Tree](src/com/namanh/binary_search_tree/BinarySearchTree.txt)
 - 98 - [Validate Binary Search Tree](src/com/namanh/binary_search_tree/ValidateBinarySearchTree.java)
