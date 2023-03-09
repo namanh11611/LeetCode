@@ -177,6 +177,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 703 - [Kth Largest Element in a Stream](src/com/namanh/heap_priority_queue/KthLargest.java)
 - 786 - [K-th Smallest Prime Fraction](src/com/namanh/heap_priority_queue/KthSmallestPrimeFraction.kt)
 - 1329 - [Sort the Matrix Diagonally](src/com/namanh/heap_priority_queue/SortTheMatrixDiagonally.kt)
+- 1675 - [Minimize Deviation in Array](src/com/namanh/heap_priority_queue/MinimizeDeviationInArray.kt)
 - 2545 - [Sort the Students by Their Kth Score](src/com/namanh/heap_priority_queue/SortTheStudentsByTheirKthScore.kt)
 
 ### [Linked List](src/com/namanh/linked_list/LinkedList.txt)
