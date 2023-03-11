@@ -62,6 +62,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 
 ### [Binary Search Tree](src/com/namanh/binary_search_tree/BinarySearchTree.txt)
 - 98 - [Validate Binary Search Tree](src/com/namanh/binary_search_tree/ValidateBinarySearchTree.java)
+- 109 - [Convert Sorted List to Binary Search Tree](src/com/namanh/binary_search_tree/ConvertSortedListToBinarySearchTree.kt)
 - 230 - [Kth Smallest Element in a BST](src/com/namanh/binary_search_tree/KthSmallestElementInABST.java)
 - 285 - [Inorder Successor in BST](src/com/namanh/binary_search_tree/InorderSuccessorInBST.java)
 - 450 - [Delete Node in a BST](src/com/namanh/binary_search_tree/DeleteNodeInABST.java)
