@@ -217,6 +217,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1476 - [Subrectangle Queries](src/com/namanh/matrix/SubrectangleQueries.kt)
 - 2120 - [Execution of All Suffix Instructions Staying in a Grid](src/com/namanh/matrix/ExecutionOfAllSuffixInstructionsStayingInAGrid.kt)
 - 2125 - [Number of Laser Beams in a Bank](src/com/namanh/matrix/NumberOfLaserBeamsInABank.kt)
+- 2482 - [Difference Between Ones and Zeros in Row and Column](src/com/namanh/matrix/DifferenceBetweenOnesAndZerosInRowAndColumn.kt)
 
 ### Minimum Spanning Tree
 - 1584 - [Min Cost to Connect All Points](src/com/namanh/minimum_spanning_tree/MinCostToConnectAllPoints.java)
