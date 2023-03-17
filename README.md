@@ -173,6 +173,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1748 - [Sum of Unique Elements](src/com/namanh/hash_table/SumOfUniqueElements.java)
 - 1817 - [Finding the Users Active Minutes](src/com/namanh/hash_table/FindingTheUsersActiveMinutes.kt)
 - 2306 - [Naming a Company](src/com/namanh/hash_table/NamingACompany.kt)
+- 2442 - [Count Number of Distinct Integers After Reverse Operations](src/com/namanh/hash_table/CountNumberOfDistinctIntegersAfterReverseOperations.kt)
 
 ### [Heap (Priority Queue)](src/com/namanh/heap_priority_queue/PriorityQueue.txt)
 - 23 - [Merge k Sorted Lists](src/com/namanh/heap_priority_queue/MergeKSortedLists.java)
