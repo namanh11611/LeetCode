@@ -294,6 +294,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 
 ### Trie
 - 208 - [Implement Trie (Prefix Tree)](src/com/namanh/trie/Trie.java)
+- 211 - [Design Add and Search Words Data Structure](src/com/namanh/trie/WordDictionary.kt)
 - 676 - [Implement Magic Dictionary](src/com/namanh/trie/MagicDictionary.java)
 - 677 - [Map Sum Pairs](src/com/namanh/trie/MapSum.java)
 - 720 - [Longest Word in Dictionary](src/com/namanh/trie/LongestWordInDictionary.java)
