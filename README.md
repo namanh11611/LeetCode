@@ -25,6 +25,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1920 - [Build Array from Permutation](src/com/namanh/array/BuildArrayFromPermutation.kt)
 - 1929 - [Concatenation of Array](src/com/namanh/array/ConcatenationOfArray.kt)
 - 2079 - [Watering Plants](src/com/namanh/array/WateringPlants.kt)
+- 2348 - [Number of Zero-Filled Subarrays](src/com/namanh/array/NumberOfZeroFilledSubarrays.kt)
 - 2574 - [Left and Right Sum Differences](src/com/namanh/array/LeftAndRightSumDifferences.kt)
 
 ### BFS
