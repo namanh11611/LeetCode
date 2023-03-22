@@ -330,8 +330,9 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 2444 - [Count Subarrays With Fixed Bounds](src/com/namanh/two_pointers/CountSubarraysWithFixedBounds.kt)
 - 2576 - [Find the Maximum Number of Marked Indices](src/com/namanh/two_pointers/FindTheMaximumNumberOfMarkedIndices.kt)
 
-### Union Find
+### [Union Find](src/com/namanh/union_find/UnionFind.txt)
 - 684 - [Redundant Connection](src/com/namanh/union_find/RedundantConnection.java)
 - 737 - [Sentence Similarity II](src/com/namanh/union_find/SentenceSimilarityII.java)
 - 990 - [Satisfiability of Equality Equations](src/com/namanh/union_find/SatisfiabilityOfEqualityEquations.java)
 - 1627 - [Graph Connectivity With Threshold](src/com/namanh/union_find/GraphConnectivityWithThreshold.java)
+- 2492 - [Minimum Score of a Path Between Two Cities](src/com/namanh/union_find/MinimumScoreOfAPathBetweenTwoCities.kt)
