@@ -123,6 +123,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 797 - [All Paths From Source to Target](src/com/namanh/dfs/AllPathsFromSourceToTarget.kt)
 - 841 - [Keys and Rooms](src/com/namanh/dfs/KeysAndRooms.java)
 - 980 - [Unique Paths III](src/com/namanh/dfs/UniquePathsIII.java)
+- 1319 - [Number of Operations to Make Network Connected](src/com/namanh/dfs/NumberOfOperationsToMakeNetworkConnected.kt)
 
 ### Dijkstra
 - 743 - [Network Delay Time](src/com/namanh/dijkstra/NetworkDelayTime.java)
