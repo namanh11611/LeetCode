@@ -44,6 +44,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1345 - [Jump Game IV](src/com/namanh/bfs/JumpGameIV.kt)
 - 1466 - [Reorder Routes to Make All Paths Lead to the City Zero](src/com/namanh/bfs/ReorderRoutesToMakeAllPathsLeadToTheCityZero.kt)
 - 2059 - [Minimum Operations to Convert Number](src/com/namanh/bfs/MinimumOperationsToConvertNumber.java)
+- 2316 - [Count Unreachable Pairs of Nodes in an Undirected Graph](src/com/namanh/bfs/CountUnreachablePairsOfNodesInAnUndirectedGraph.kt)
 
 ### [Binary Search](src/com/namanh/binary_search/BinarySearch.txt)
 - 33 - [Search in Rotated Sorted Array](src/com/namanh/binary_search/SearchInRotatedSortedArray.java)
