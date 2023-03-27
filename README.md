@@ -283,6 +283,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 680 - [Valid Palindrome II](src/com/namanh/string/ValidPalindromeII.java)
 - 696 - [Count Binary Substrings](src/com/namanh/string/CountBinarySubstrings.java)
 - 1108 - [Defanging an IP Address](src/com/namanh/string/DefangingAnIPAddress.kt)
+- 1347 - [Minimum Number of Steps to Make Two Strings Anagram](src/com/namanh/string/MinimumNumberOfStepsToMakeTwoStringsAnagram.kt)
 - 1689 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/com/namanh/string/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
 - 2575 - [Find the Divisibility Array of a String](src/com/namanh/string/FindTheDivisibilityArrayOfAString.kt)
 
