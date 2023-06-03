@@ -192,6 +192,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 2306 - [Naming a Company](src/com/namanh/hash_table/NamingACompany.kt)
 - 2442 - [Count Number of Distinct Integers After Reverse Operations](src/com/namanh/hash_table/CountNumberOfDistinctIntegersAfterReverseOperations.kt)
 - 2610 - [Convert an Array Into a 2D Array With Conditions](src/com/namanh/hash_table/ConvertAnArrayIntoA2DArrayWithConditions.kt)
+- 2657 - [Find the Prefix Common Array of Two Arrays](src/com/namanh/hash_table/FindThePrefixCommonArrayOfTwoArrays.kt)
 
 ### [Heap (Priority Queue)](src/com/namanh/heap_priority_queue/PriorityQueue.txt)
 - 23 - [Merge k Sorted Lists](src/com/namanh/heap_priority_queue/MergeKSortedLists.java)
