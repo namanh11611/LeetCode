@@ -129,6 +129,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 841 - [Keys and Rooms](src/com/namanh/dfs/KeysAndRooms.java)
 - 980 - [Unique Paths III](src/com/namanh/dfs/UniquePathsIII.java)
 - 1319 - [Number of Operations to Make Network Connected](src/com/namanh/dfs/NumberOfOperationsToMakeNetworkConnected.kt)
+- 1376 - [Time Needed to Inform All Employees](src/com/namanh/dfs/TimeNeededToInformAllEmployees.kt)
 - 2360 - [Longest Cycle in a Graph](src/com/namanh/dfs/LongestCycleInAGraph.kt)
 
 ### Dijkstra
