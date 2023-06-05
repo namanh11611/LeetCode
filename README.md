@@ -227,6 +227,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 ### Math
 - 319 - [Bulb Switcher](src/com/namanh/math/BulbSwitcher.java)
 - 650 - [2 Keys Keyboard](src/com/namanh/math/TwoKeysKeyboard.java)
+- 1232 - [Check If It Is a Straight Line](src/com/namanh/math/CheckIfItIsAStraightLine.kt)
 - 1523 - [Count Odd Numbers in an Interval Range](src/com/namanh/math/CountOddNumbersInAnIntervalRange.kt)
 - 1551 - [Minimum Operations to Make Array Equal](src/com/namanh/math/MinimumOperationsToMakeArrayEqual.kt)
 - 1603 - [Design Parking System](src/com/namanh/math/ParkingSystem.kt)
