@@ -1,6 +1,6 @@
-package com.namanh.two_pointers;
+package com.namanh.two_pointers
 
-import java.util.Arrays;
+import java.util.Arrays
 
 /**
  * https://leetcode.com/problems/minimize-maximum-pair-sum-in-array
@@ -15,13 +15,14 @@ import java.util.Arrays;
  * Time: O(n * log(n))
  * Space: O(1)
  */
-public class MinimizeMaximumPairSumInArray {
-    public int minPairSum(int[] nums) {
-        Arrays.sort(nums);
-        int sum = 0, n = nums.length;
-        for (int i = 0; i < n / 2; i++) {
-            sum = Math.max(sum, nums[i] + nums[n-i-1]);
+class MinimizeMaximumPairSumInArray {
+    fun minPairSum(nums: IntArray): Int {
+        Arrays.sort(nums)
+        var sum = 0
+        val n = nums.size
+        for (i in 0 until n / 2) {
+            sum = maxOf(sum, nums[i] + nums[n - i - 1])
         }
-        return sum;
+        return sum
     }
 }
