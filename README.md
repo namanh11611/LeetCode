@@ -307,6 +307,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1347 - [Minimum Number of Steps to Make Two Strings Anagram](src/com/namanh/string/MinimumNumberOfStepsToMakeTwoStringsAnagram.kt)
 - 1689 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/com/namanh/string/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
 - 1768 - [Merge Strings Alternately](src/com/namanh/string/MergeStringsAlternately.kt)
+- 2000 - [Reverse Prefix of Word](src/com/namanh/string/ReversePrefixOfWord.kt)
 - 2405 - [Optimal Partition of String](src/com/namanh/string/OptimalPartitionOfString.kt)
 - 2575 - [Find the Divisibility Array of a String](src/com/namanh/string/FindTheDivisibilityArrayOfAString.kt)
 
