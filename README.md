@@ -175,6 +175,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1137 - [N-th Tribonacci Number](src/com/namanh/dynamic_programming/NthTribonacciNumber.java)
 - 1143 - [Longest Common Subsequence](src/com/namanh/dynamic_programming/LongestCommonSubsequence.java)
 - 1262 - [Greatest Sum Divisible by Three](src/com/namanh/dynamic_programming/GreatestSumDivisibleByThree.java)
+- 1289 - [Minimum Falling Path Sum II](src/com/namanh/dynamic_programming/MinimumFallingPathSumII.kt)
 - 1444 - [Number of Ways of Cutting a Pizza](src/com/namanh/dynamic_programming/NumberOfWaysOfCuttingAPizza.kt)
 
 ### Graph
