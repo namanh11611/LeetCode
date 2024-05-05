@@ -325,6 +325,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1679 - [Max Number of K-Sum Pairs](src/com/namanh/sum/MaxNumberOfKSumPairs.java)
 
 ### Tree
+- 310 - [Minimum Height Trees](src/com/namanh/tree/MinimumHeightTrees.kt)
 - 429 - [N-ary Tree Level Order Traversal](src/com/namanh/tree/NaryTreeLevelOrderTraversal.java)
 - 590 - [N-ary Tree Postorder Traversal](src/com/namanh/tree/NaryTreePostorderTraversal.java)
 
