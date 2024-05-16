@@ -109,6 +109,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1315 - [Sum of Nodes with Even-Valued Grandparent](src/com/namanh/binary_tree/SumOfNodesWithEvenValuedGrandparent.kt)
 - 1372 - [Longest ZigZag Path in a Binary Tree](src/com/namanh/binary_tree/LongestZigZagPath.java)
 - 2265 - [Count Nodes Equal to Average of Subtree](src/com/namanh/binary_tree/CountNodesEqualToAverageOfSubtree.kt)
+- 2331 - [Evaluate Boolean Binary Tree](src/com/namanh/binary_tree/EvaluateBooleanBinaryTree.kt)
 
 ### Bit Manipulation
 - 78 - [Subsets](src/com/namanh/bit_manipulation/Subsets.java)
