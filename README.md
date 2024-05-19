@@ -124,6 +124,7 @@ Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
 - 1342 - [Number of Steps to Reduce a Number to Zero](src/com/namanh/bit_manipulation/NumberOfStepsToReduceANumberToZero.java)
 - 2433 - [Find The Original Array of Prefix Xor](src/com/namanh/bit_manipulation/FindTheOriginalArrayOfPrefixXor.kt)
 - 2997 - [Minimum Number of Operations to Make Array XOR Equal to K](src/com/namanh/bit_manipulation/MinimumNumberOfOperationsToMakeArrayXorEqualToK.kt)
+- 3068 - [Find the Maximum Sum of Node Values](src/com/namanh/bit_manipulation/FindTheMaximumSumOfNodeValues.kt)
 
 ### DFS
 - 200 - [Number of Islands](src/com/namanh/dfs/NumberOfIslands.java)
