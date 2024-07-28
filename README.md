@@ -1,6 +1,6 @@
-# Leetcode
+# LeetCode
 
-Solve Leetcode problems: [My profile](https://leetcode.com/namanh11611/)
+Solve LeetCode problems: [My profile](https://leetcode.com/namanh11611/)
 
 
 ### Array
